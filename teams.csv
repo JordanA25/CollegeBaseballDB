@@ -1,0 +1,1205 @@
+code,school,division
+ABBA,Abraham Baldwin,non-NCAA
+ABCH,Abilene Christian,D-I
+ACAR,Academy of Art,D-II
+ADEL,Adelphi,D-II
+ADRI,Adrian,D-III
+ADST,Adams St.,D-II
+AIFO,Air Force,D-I
+AKRO,Akron,D-I
+ALAB,Alabama,D-I
+ALAM,Alabama A&M,D-I
+ALBI,Albion,D-III
+ALBR,Albright,D-III
+ALCO,Alcorn,D-I
+ALDE,Alderson Broaddus,D-II
+ALFR,Alfred,D-III
+ALFS,Alfred St.,D-III
+ALLE,Allegheny,D-III
+ALLI,Alliance,D-II
+ALLL,Alice Lloyd,non-NCAA
+ALMA,Albertus Magnus,D-III
+ALSG,Albany St. (GA),D-II
+ALST,Alabama St.,D-I
+ALVE,Alvernia,D-III
+AMCX,A&M-Corpus Christi,D-I
+AMHE,Amherst,D-III
+AMIL,American Int'l,D-II
+ANIN,Anderson (IN),D-III
+ANMA,Anna Maria,D-III
+ANSC,Anderson (SC),D-II
+ANST,Angelo St.,D-II
+ANVA,Antelope Valley,non-NCAA
+APPR,Apprentice,non-NCAA
+APST,App State,D-I
+AQUI,Aquinas,non-NCAA
+ARBA,Arlington Baptist,non-NCAA
+ARCA,Arcadia,D-III
+ARCH,Arizona Christian,non-NCAA
+ARFS,Ark.-Fort Smith,D-II
+ARIZ,Arizona,D-I
+ARKA,Arkansas,D-I
+ARKS,Arkansas St.,D-I
+ARMO,Ark.-Monticello,D-II
+ARMS,Armstrong St.,
+ARPB,Ark.-Pine Bluff,D-I
+ARST,Arizona St.,D-I
+ARTE,Arkansas Tech,D-II
+ARWP,Army West Point,D-I
+ASBU,Asbury,D-III
+ASHL,Ashland,D-II
+ASSU,Assumption,D-II
+AUBU,Auburn,D-I
+AUGS,Augsburg,D-III
+AUGU,Augusta,D-II
+AUIL,Augustana (IL),D-III
+AUMX,AUM,D-II
+AUPE,Austin Peay,D-I
+AURO,Aurora,D-III
+AUSD,Augustana (SD),D-II
+AUST,Austin,D-III
+AVER,Averett,D-III
+AVIL,Avila,non-NCAA
+AVMA,Ave Maria,non-NCAA
+AZPA,Azusa Pacific,D-II
+BABS,Babson,D-III
+BAKE,Baker,non-NCAA
+BARD,Bard,D-III
+BARR,Barry,D-II
+BART,Barton,D-II
+BARU,Baruch,D-III
+BAST,Ball St.,D-I
+BATE,Bates,D-III
+BAWA,Baldwin Wallace,D-III
+BAYL,Baylor,D-I
+BEAB,Belmont Abbey,D-II
+BECA,Bethesda (CA),non-NCAA
+BECK,Becker,D-III
+BECO,Bethune-Cookman,D-I
+BEIL,Benedictine (IL),D-III
+BEIN,Bethel (IN),non-NCAA
+BEKS,Benedictine (KS),non-NCAA
+BELH,Belhaven,D-III
+BELL,Bellarmine,D-I
+BELM,Belmont,D-I
+BELO,Beloit,D-III
+BELU,Bethany Lutheran,D-III
+BEMN,Bethel (MN),D-III
+BENE,Benedict,D-II
+BENT,Bentley,D-II
+BERE,Berea,D-III
+BERR,Berry,D-III
+BEST,Bemidji St.,D-II
+BETH,Bethany (KS),non-NCAA
+BETN,Bethel (TN),non-NCAA
+BEWV,Bethany (WV),D-III
+BING,Binghamton,D-I
+BIOL,Biola,D-II
+BISO,Birmingham-So.,D-III
+BIST,Bismarck St.,non-NCAA
+BLAC,Blackburn,D-III
+BLMM,Blue Mountain (MS),non-NCAA
+BLMS,Bloomsburg,D-II
+BLOO,Bloomfield,
+BLST,Bluefield St.,D-II
+BLUF,Bluffton,D-III
+BLUN,Bluefield Univ.,non-NCAA
+BOCO,Boston College,D-I
+BOGR,Bowling Green,D-I
+BOJO,Bob Jones,D-III
+BOST,Boise St.,D-I
+BOWD,Bowdoin,D-III
+BRAD,Bradley,D-I
+BRAN,Brandeis,D-III
+BRCI,Briar Cliff (IA),non-NCAA
+BRES,Brescia,non-NCAA
+BREV,Brevard,D-III
+BRID,Bridgeport,D-II
+BROW,Brown,D-I
+BRPA,Brewton-Parker,non-NCAA
+BRSA,Bry. & Strat. (Alb.),non-NCAA
+BRSB,Bry. & Strat. (Buf.),non-NCAA
+BRSS,Bry. & Strat. (Syr.),non-NCAA
+BRST,Bridgewater St.,D-III
+BRVA,Bridgewater (VA),D-III
+BRYA,Bryant,D-I
+BUCK,Bucknell,D-I
+BUFF,Buffalo,D-I
+BUSH,Bushnell,non-NCAA
+BUTL,Butler,D-I
+BUVI,Buena Vista,D-III
+BYUX,BYU,D-I
+CABA,California Baptist,D-I
+CABR,Cabrini,D-III
+CACO,Calumet Col.,non-NCAA
+CAIR,Cairn,D-III
+CALD,Caldwell,D-II
+CALI,California,D-I
+CALT,Caltech,D-III
+CALU,Cal Lutheran,D-III
+CALV,Calvin,D-III
+CAME,Cameron,D-II
+CAMP,Campbell,D-I
+CANE,Carson-Newman,D-II
+CANI,Canisius,D-I
+CAPA,California (PA),D-II
+CAPI,Capital,D-III
+CAPO,Cal Poly,D-I
+CAPP,Cal Poly Pomona,D-II
+CARL,Carleton,D-III
+CARO,CarolinaU,non-NCAA
+CART,Carthage,D-III
+CASD,Cal St. Dom. Hills,D-II
+CASE,Cal St. East Bay,D-II
+CASF,Cal St. Fullerton,D-I
+CASL,Cal State LA,D-II
+CASM,Cal St. Monterey Bay,D-II
+CASS,Cal St. San Marcos,D-II
+CATA,Catawba,D-II
+CATH,Catholic,D-III
+CAWI,Carroll (WI),D-III
+CAZE,Cazenovia,D-III
+CCHI,Concordia Chicago,D-III
+CCNY,CCNY,D-III
+CEAR,Central Ark.,D-I
+CEBA,Central Baptist,non-NCAA
+CECK,Cent. Christian (KS),non-NCAA
+CECS,Central Conn. St.,D-I
+CEDA,Cedarville,D-II
+CEIA,Central (IA),D-III
+CELA,Centenary (LA),D-III
+CEMI,Central Mich.,D-I
+CEMO,Central Mo.,D-II
+CENJ,Centenary (NJ),D-III
+CENT,Centre,D-III
+CEOK,Central Okla.,D-II
+CEPE,Central Penn,non-NCAA
+CEWA,Central Wash.,D-II
+CHAM,Chaminade,D-II
+CHAP,Chapman,D-III
+CHAR,Charlotte,D-I
+CHAT,Chatham,D-III
+CHBR,Christian Brothers,D-II
+CHHI,Chestnut Hill,D-II
+CHIC,Chico St.,D-II
+CHNE,Chris. Newport,D-III
+CHOW,Chowan,D-II
+CHRI,Christendom,non-NCAA
+CHSO,Charleston So.,D-I
+CHST,Chicago St.,D-I
+CHWV,Charleston (WV),D-II
+CINC,Cincinnati,D-I
+CITA,The Citadel,D-I
+CLAF,Claflin,D-II
+CLAR,Clarion,D-II
+CLAT,Clark Atlanta,D-II
+CLEA,Cleary,non-NCAA
+CLEM,Clemson,D-I
+CLKE,Clarke,non-NCAA
+CLMA,Clark (MA),D-III
+CLMS,Claremont-M-S,D-III
+CLRK,Clarkson,D-III
+CLSU,Clarks Summit,D-III
+COAL,Concordia (AL),non-NCAA
+COCA,Coastal Carolina,D-I
+COCH,Col. of Charleston,D-I
+COCO,Cornell College,D-III
+COEX,Coe,D-III
+COGU,Coast Guard,D-III
+COID,Col. of Idaho,non-NCAA
+COIL,Columbia Int'l,non-NCAA
+COKE,Coker,D-II
+COLB,Colby,D-III
+COLO,Colo. Christian,D-II
+COLU,Columbia,D-I
+COME,Colorado Mesa,D-II
+COMH,Concordia-M'head,D-III
+COMI,Concordia (MI),non-NCAA
+CONC,Concord,D-II
+CONE,Concordia (NE),non-NCAA
+CONY,Concordia (NY),D-II
+COPO,Concordia Portland,D-II
+COPP,Coppin St.,D-I
+CORB,Corban,non-NCAA
+CORN,Cornell,D-I
+CORT,Cortland,D-III
+COSA,Colby-Sawyer,D-III
+COSM,Colo. Sch. of Mines,D-II
+COSP,Concordia-St. Paul,D-II
+COST,Columbus St.,D-II
+COTX,Concordia (TX),D-III
+COVE,Covenant,D-III
+COWI,Concordia Wisconsin,D-III
+CREI,Creighton,D-I
+CRMN,Crown (MN),D-III
+CRNR,Cornerstone,non-NCAA
+CRSR,Crowley's Ridge,non-NCAA
+CSBA,CSU Bakersfield,D-I
+CSPU,CSU Pueblo,D-II
+CSUN,CSUN,D-I
+CSUS,CSUSB,D-II
+CUIX,CUI,D-II
+CUKY,Cumberlands (KY),non-NCAA
+CURR,Curry,D-III
+CWRU,CWRU,D-III
+DACH,Dallas Christian,non-NCAA
+DAEL,Davis & Elkins,D-II
+DAKO,Dakota Wesleyan,non-NCAA
+DALL,Dallas,D-III
+DART,Dartmouth,D-I
+DAST,Dakota St.,non-NCAA
+DAVE,Davenport,D-II
+DAVI,Davidson,D-I
+DAWE,Daniel Webster,D-III
+DAYT,Dayton,D-I
+DBUX,DBU,D-I
+DEAN,Dean,D-III
+DEFI,Defiance,D-III
+DELA,Delaware,D-I
+DELT,Delta St.,D-II
+DENI,Denison,D-III
+DEPA,DePauw,D-III
+DESA,DeSales,D-III
+DEST,Delaware St.,D-I
+DEVA,Delaware Valley,D-III
+DICK,Dickinson,D-III
+DILL,Dillard,non-NCAA
+DIST,Dickinson St.,non-NCAA
+DOIL,Dominican (IL),D-III
+DONY,Dominican (NY),D-II
+DORD,Dordt,non-NCAA
+DOWL,Dowling,D-II
+DREW,Drew,D-III
+DRUR,Drury,D-II
+DUBU,Dubuque,D-III
+DUKE,Duke,D-I
+DYOX,D'Youville,D-II
+EACA,East Carolina,D-I
+EACE,East Central,D-II
+EACS,Eastern Conn. St.,D-III
+EAIL,Eastern Ill.,D-I
+EAKY,Eastern Ky.,D-I
+EAME,East. Mennonite,D-III
+EAMI,Eastern Mich.,D-I
+EANA,Eastern Nazarene,D-III
+EANM,Eastern N.M.,D-II
+EAOR,Eastern Ore.,non-NCAA
+EARL,Earlham,D-III
+EAST,East Stroudsburg,D-II
+EATB,East Tex. Baptist,D-III
+ECCL,Ecclesia,non-NCAA
+ECKE,Eckerd,D-II
+EDGE,Edgewood,D-III
+EDWA,Edward Waters,D-II
+ELIZ,Elizabethtown,D-III
+ELMH,Elmhurst,D-III
+ELMI,Elmira,D-III
+ELMS,Elms,D-III
+ELON,Elon,D-I
+EMER,Emerson,D-III
+EMGA,Emmanuel (GA),D-II
+EMHE,Emory & Henry,D-II
+EMOR,Emory,D-III
+EMRF,Embry-Riddle (FL),D-II
+EMST,Emporia St.,D-II
+ENDI,Endicott,D-III
+ERSK,Erskine,D-II
+ETSU,ETSU,D-I
+EURE,Eureka,D-III
+EVAN,Evansville,D-I
+FAIR,Fairfield,D-I
+FARM,Farmingdale St.,D-III
+FAST,Fairmont St.,D-II
+FDFL,FDU-Florham,D-III
+FDUX,FDU,D-I
+FELI,Felician,D-II
+FERR,Ferrum,D-II
+FGCU,FGCU,D-I
+FIND,Findlay,D-II
+FINL,Finlandia,D-III
+FISH,Fisher,non-NCAA
+FISK,Fisk,non-NCAA
+FIST,Fitchburg St.,D-III
+FIUX,FIU,D-I
+FLAG,Flagler,D-II
+FLAM,Florida A&M,D-I
+FLAT,Fla. Atlantic,D-I
+FLME,Fla. Memorial,non-NCAA
+FLNA,Fla. National,non-NCAA
+FLOR,Florida,D-I
+FLSO,Fla. Southern,D-II
+FLST,Florida St.,D-I
+FLTE,Florida Tech,D-II
+FOHS,Fort Hays St.,D-II
+FOLA,Fort Lauderdale,non-NCAA
+FONT,Fontbonne,
+FORD,Fordham,D-I
+FRAM,Franklin & Marshall,D-III
+FRAN,Franciscan,D-III
+FRED,Fredonia,D-III
+FRES,Fresno St.,D-I
+FRHA,Freed-Hardeman,non-NCAA
+FRMA,Francis Marion,D-II
+FRNK,Franklin,D-III
+FROS,Frostburg St.,D-II
+FRPA,Fresno Pacific,D-II
+FRPI,Franklin Pierce,D-II
+FRST,Framingham St.,D-III
+FURM,Furman,D-I
+GALL,Gallaudet,
+GANN,Gannon,D-II
+GASO,Ga. Southern,D-I
+GAWE,Gardner-Webb,D-I
+GAXX,Ga. Southwestern,D-II
+GECO,Georgia College,D-II
+GEFO,George Fox,D-III
+GEGW,Georgia Gwinnett,non-NCAA
+GEMA,George Mason,D-I
+GENE,Geneva,D-III
+GEOC,Georgian Court,D-II
+GEOR,Georgetown,D-I
+GEST,Georgia St.,D-I
+GETE,Georgia Tech,D-I
+GETT,Gettysburg,D-III
+GEWA,George Washington,D-I
+GLST,Glenville St.,D-II
+GOBE,Goldey-Beacom,D-II
+GONZ,Gonzaga,D-I
+GORD,Gordon,D-III
+GOSH,Goshen,non-NCAA
+GRAC,Grace (IN),non-NCAA
+GRAM,Grambling,D-I
+GRCA,Grand Canyon,D-I
+GRCI,Grove City,D-III
+GRCM,Grace Christian (MI),non-NCAA
+GREE,Greensboro,D-III
+GRGX,Georgia,D-I
+GRIN,Grinnell,D-III
+GRNV,Greenville,D-III
+GRVI,Grand View,non-NCAA
+GRVS,Grand Valley St.,D-II
+GUAD,Gustavus Adolphus,D-III
+GUIL,Guilford,D-III
+GWME,Gwynedd Mercy,D-III
+HAHI,Hawaii Hilo,D-II
+HALG,Hannibal-La Grange,non-NCAA
+HAMI,Hamilton,D-III
+HAML,Hamline,D-III
+HANO,Hanover,D-III
+HAPA,Hawaii Pacific,D-II
+HARD,Harding,D-II
+HART,Hartford,D-III
+HARV,Harvard,D-I
+HASI,Hardin-Simmons,D-III
+HAST,Harris-Stowe,non-NCAA
+HASY,Hampden-Sydney,D-III
+HAVE,Haverford,D-III
+HAWA,Hawaii,D-I
+HEID,Heidelberg,D-III
+HEND,Hendrix,D-III
+HEST,Henderson St.,D-II
+HILB,Hilbert,D-III
+HILL,Hillsdale,D-II
+HIPO,High Point,D-I
+HIRA,Hiram,D-III
+HIWA,Hiwassee,non-NCAA
+HNTN,Huntington,non-NCAA
+HOBA,Hobart,D-III
+HOCH,Houston Christian,D-I
+HOCR,Holy Cross,D-I
+HOFA,Holy Family,D-II
+HOFS,Hofstra,D-I
+HOIL,Hope Int'l,non-NCAA
+HONA,Holy Names,D-II
+HOOD,Hood,D-III
+HOPA,Howard Payne,D-III
+HOPE,Hope,D-III
+HOUG,Houghton,D-III
+HOUS,Houston,D-I
+HOVI,Houston-Victoria,non-NCAA
+HSTN,Hastings,non-NCAA
+HUNT,Huntingdon,D-III
+HUSS,Husson,D-III
+HUTI,Huston-Tillotson,non-NCAA
+ILCO,Illinois Col.,D-III
+ILLI,Illinois,D-I
+ILSP,Ill. Springfield,D-II
+ILST,Illinois St.,D-I
+ILTE,Illinois Tech,D-III
+ILWE,Ill. Wesleyan,D-III
+IMMA,Immaculata,D-III
+INDI,Indiana,D-I
+INPA,Indiana (PA),D-II
+INSB,Ind.-South Bend,non-NCAA
+INSO,Ind.-Southeast,non-NCAA
+INST,Indiana St.,D-I
+INTE,Indiana Tech,non-NCAA
+IONA,Iona,D-I
+IOWA,Iowa,D-I
+IOWE,Iowa Wesleyan,D-III
+ITHA,Ithaca,D-III
+JACH,Jarvis Christian,non-NCAA
+JACK,Jacksonville,D-I
+JACS,Jacksonville St.,D-I
+JAMA,James Madison,D-I
+JAME,Jamestown,D-II
+JAST,Jackson St.,D-I
+JEFF,Jefferson,D-II
+JESS,Jessup,D-II
+JOCA,John Carroll,D-III
+JOHO,Johns Hopkins,D-III
+JOJA,John Jay,D-III
+JOTN,Johnson (TN),non-NCAA
+JUIL,Judson (IL),non-NCAA
+JUNI,Juniata,D-III
+JWCH,JWU Charlotte,D-III
+JWPR,JWU (Providence),D-III
+KALA,Kalamazoo,D-III
+KANS,Kansas,D-I
+KAST,Kansas St.,D-I
+KEAN,Kean,D-III
+KEIS,Keiser,non-NCAA
+KENN,Kennesaw St.,D-I
+KENS,Kentucky St.,D-II
+KENT,Kent St.,D-I
+KENY,Kenyon,D-III
+KEST,Keene St.,D-III
+KEUK,Keuka,D-III
+KEYS,Keystone,D-III
+KISP,King's (PA),D-III
+KITN,King (TN),D-II
+KNOX,Knox,D-III
+KNTC,Kentucky,D-I
+KSTX,Kent St.-Tuscarawas,non-NCAA
+KUTZ,Kutztown,D-II
+KYWE,Ky. Wesleyan,D-II
+LABI,Lancaster Bible,D-III
+LACH,La. Christian,non-NCAA
+LAER,Lake Erie,D-II
+LAFA,Lafayette,D-I
+LAGR,LaGrange,D-III
+LAKE,Lakeland,D-III
+LAND,Lander,D-II
+LANE,Lane,D-II
+LARO,La Roche,D-III
+LASA,La Salle,D-I
+LASE,Lasell,D-III
+LASI,La Sierra,non-NCAA
+LATE,Lawrence Tech,non-NCAA
+LAUN,Lamar University,D-I
+LAVE,La Verne,D-III
+LAWR,Lawrence,D-III
+LECL,Lewis & Clark,D-III
+LECS,Lewis-Clark St.,non-NCAA
+LEEX,Lee,D-II
+LEHI,Lehigh,D-I
+LEHM,Lehman,D-III
+LEMO,Le Moyne,D-I
+LEOW,LeMoyne-Owen,D-II
+LERH,Lenoir-Rhyne,D-II
+LESL,Lesley,D-III
+LETO,LeTourneau,D-III
+LEVA,Lebanon Valley,D-III
+LEWI,Lewis,D-II
+LIBE,Liberty,D-I
+LICH,Lincoln Christian,non-NCAA
+LIIL,Lindenwood (IL),non-NCAA
+LIME,Limestone,
+LIMO,Lincoln (MO),D-II
+LINC,Lincoln Memorial,D-II
+LIND,Lindenwood,D-I
+LINF,Linfield,D-III
+LIPA,Lincoln (PA),D-II
+LIPO,LIU Post,D-II
+LIPS,Lipscomb,D-I
+LIRO,Little Rock,D-I
+LIUX,LIU,D-I
+LMCA,LMU (CA),D-I
+LMXX,Alma,D-III
+LOBS,Long Beach St.,D-I
+LOCO,Louisiana Col.,D-III
+LOHA,Lock Haven,D-II
+LOLA,Loyola (LA),non-NCAA
+LONG,Longwood,D-I
+LORA,Loras,D-III
+LOTE,Louisiana Tech,D-I
+LOUI,Louisiana,D-I
+LOUR,Lourdes,non-NCAA
+LSAL,LSU-Alexandria,non-NCAA
+LSSH,LSU-Shreveport,non-NCAA
+LSUX,LSU,D-I
+LSVL,Louisville,D-I
+LUCH,Lubbock Christian,D-II
+LUTH,Luther,D-III
+LYCO,Lycoming,D-III
+LYNC,Lynchburg,D-III
+LYNN,Lynn,D-II
+LYON,Lyon,D-III
+MABA,Maranatha Baptist,D-III
+MACA,Macalester,D-III
+MACM,MacMurray,D-III
+MADO,Madonna,non-NCAA
+MAHB,Mary Hardin-Baylor,D-III
+MAHI,Mars Hill,D-II
+MAIN,Maine,D-I
+MALO,Malone,D-II
+MALU,Martin Luther,D-III
+MAMA,Mass. Maritime,D-III
+MAMO,Maryville (MO),D-II
+MANC,Manchester,D-III
+MANH,Manhattan,D-I
+MANS,Mansfield,D-II
+MARB,Mary Baldwin,D-III
+MARI,Marietta,D-III
+MARS,Marshall,D-I
+MARY,Mary,D-II
+MASS,Massachusetts,D-I
+MAST,Mayville St.,non-NCAA
+MASX,Master's,non-NCAA
+MATN,Maryville (TN),D-III
+MAVA,Marymount (VA),D-III
+MAWA,Mary Washington,D-III
+MAWI,Marian (WI),D-III
+MCDA,McDaniel,D-III
+MCKE,McKendree,D-II
+MCLA,MCLA,D-III
+MCMU,McMurry,D-III
+MCNE,McNeese,D-I
+MCPH,McPherson,non-NCAA
+MEAU,Me.-Augusta,non-NCAA
+MEDA,Medaille,D-III
+MEFA,Me.-Farmington,D-III
+MEMA,Merchant Marine,D-III
+MEMP,Memphis,D-I
+MENL,Menlo,D-II
+MEPI,Me.-Presque Isle,D-III
+MERC,Mercer,D-I
+MERR,Merrimack,D-I
+MESS,Messiah,D-III
+MEST,Mercyhurst,D-I
+METH,Methodist,D-III
+MIAC,Mid-Amer. Christian,non-NCAA
+MICH,Michigan,D-I
+MICO,Mississippi Col.,D-II
+MICR,Minn.-Crookston,D-II
+MIDD,Middlebury,D-III
+MIDG,Middle Georgia St.,non-NCAA
+MIDL,Midland,non-NCAA
+MIDU,Minn. Duluth,D-II
+MIDW,Midway,non-NCAA
+MIDX,Mid-Atlantic Christ.,non-NCAA
+MIFL,Miami (FL),D-I
+MIGE,Middle Georgia,D-II
+MIGS,Middle Ga. St.,non-NCAA
+MIHA,Miami-Hamilton,non-NCAA
+MILE,Miles,D-II
+MILL,Millersville,D-II
+MILW,Milwaukee,D-I
+MIMO,Minn.-Morris,D-III
+MINN,Minnesota,D-I
+MINO,Minot St.,D-II
+MINS,Minnesota St.,D-II
+MIOH,Miami (OH),D-I
+MISE,Misericordia,D-III
+MISS,Mississippi St.,D-I
+MIST,Michigan St.,D-I
+MISV,Missouri Valley,non-NCAA
+MITC,Mitchell,D-III
+MITE,Middle Tenn.,D-I
+MITX,MIT,D-III
+MIUX,Mission U.,non-NCAA
+MIVA,Mississippi Val.,D-I
+MIWE,Missouri Western,D-II
+MLLG,Milligan,non-NCAA
+MLLK,Millikin,D-III
+MLLS,Millsaps,D-III
+MNHT,Manhattanville,D-III
+MNTR,Montreat,non-NCAA
+MOAL,Mount Aloysius,D-III
+MOBI,Mobile,non-NCAA
+MOIL,Monmouth (IL),D-III
+MOLL,Molloy,D-II
+MONM,Monmouth,D-I
+MONT,Montevallo,D-II
+MOOL,Mount Olive,D-II
+MORA,Moravian,D-III
+MORE,Morehead St.,D-I
+MORN,Morningside,non-NCAA
+MORR,Morris,non-NCAA
+MORT,Morthland,non-NCAA
+MOSB,Mont. St. Billings,D-II
+MOSL,Mo.-St. Louis,D-II
+MOSM,Mount St. Mary's,D-I
+MOSS,Mo. Southern St.,D-II
+MOST,Montclair St.,D-III
+MOUN,Mount Union,D-III
+MRCY,Mercy,D-II
+MRHS,Morehouse,D-II
+MRST,Marist,D-I
+MRYL,Maryland,D-I
+MRYW,Marywood,D-III
+MSDE,MSU Denver,D-II
+MSOE,MSOE,D-III
+MSSR,Missouri,D-I
+MSTX,Missouri St.,D-I
+MSXX,Missouri S&T,D-II
+MTMA,Mt. Marty,non-NCAA
+MTME,Mt. Mercy,non-NCAA
+MTSJ,Mt. St. Joseph,D-III
+MTSM,Mt. St. Mary (NY),D-III
+MTVN,Mt. Vernon Naz.,non-NCAA
+MUHL,Muhlenberg,D-III
+MUSK,Muskingum,D-III
+MUST,Murray St.,D-I
+MUWX,MUW,D-III
+NAVY,Navy,D-I
+NCAX,N.C. A&T,D-I
+NCCX,N.C. Central,D-I
+NCHL,Nichols,D-III
+NCST,NC State,D-I
+NCWX,N.C. Wesleyan,D-III
+NEBR,Nebraska,D-I
+NECF,New College (FL),non-NCAA
+NEEC,New England Col.,D-III
+NEHA,New Haven,D-I
+NEJC,New Jersey City,D-III
+NEKE,Neb.-Kearney,
+NELS,Nelson,non-NCAA
+NEME,New Mexico,D-I
+NEMS,New Mexico St.,D-I
+NEOR,New Orleans,D-I
+NERO,New Rochelle,D-III
+NEUM,Neumann,D-III
+NEVA,Nevada,D-I
+NEWB,Newberry,D-II
+NEWE,Neb. Wesleyan,D-III
+NEWM,Newman,D-II
+NEYT,New York Tech,D-II
+NIAG,Niagara,D-I
+NICH,Nicholls,D-I
+NIUX,NIU,D-I
+NJIT,NJIT,D-I
+NMHX,N.M. Highlands,D-II
+NOAL,North Ala.,D-I
+NOCA,North Carolina,D-I
+NOCI,North Central (IL),D-III
+NOCM,North Central (MN),D-III
+NOCO,Northern Colo.,D-I
+NODA,North Dakota,D-I
+NODM,Notre Dame (MD),D-III
+NODO,Notre Dame (OH),D-II
+NODS,North Dakota St.,D-I
+NOFL,North Florida,D-I
+NOGE,North Georgia,D-II
+NOGR,North Greenville,D-II
+NOIA,Northwestern (IA),non-NCAA
+NOKY,Northern Ky.,D-I
+NOMS,Northwest Mo. St.,D-II
+NONA,Northwest Nazarene,D-II
+NOOD,Northwood,D-II
+NOOK,Northwestern Okla.,D-II
+NOPA,North Park,D-III
+NORN,Northwestern,D-I
+NORS,Northeastern St.,D-II
+NORT,Northeastern,D-I
+NORW,Norwich,D-III
+NOSO,Nova Southeastern,D-II
+NOSP,Northwestern-St. Paul,D-III
+NOST,Norfolk St.,D-I
+NOTR,Notre Dame,D-I
+NRTH,Northland,D-III
+NSTX,Northern St.,D-II
+NWBR,Newbury,D-III
+NWST,Northwestern St.,D-I
+NYUX,NYU,D-III
+OACI,Oakland City,
+OAKL,Oakland,D-I
+OAKW,Oakwood,non-NCAA
+OBER,Oberlin,D-III
+OCCI,Occidental,D-III
+OGLE,Oglethorpe,D-III
+OHCH,Ohio Christian,non-NCAA
+OHDO,Ohio Dominican,D-II
+OHIO,Ohio,D-I
+OHLA,Ohio-Lancaster,non-NCAA
+OHNO,Ohio Northern,D-III
+OHST,Ohio St.,D-I
+OHVA,Ohio Valley,D-II
+OHWE,Ohio Wesleyan,D-III
+OKBA,Okla. Baptist,D-II
+OKCH,Okla. Christian,D-II
+OKCI,Oklahoma City,non-NCAA
+OKLA,Oklahoma,D-I
+OKPA,Okla. Panhandle,
+OKST,Oklahoma St.,D-I
+OLDO,Old Dominion,D-I
+OLIV,Olivet,D-III
+OLMI,Ole Miss,D-I
+OLNA,Olivet Nazarene,non-NCAA
+OLWE,Old Westbury,D-III
+OMAH,Omaha,D-I
+OREG,Oregon,D-I
+ORRO,Oral Roberts,D-I
+ORST,Oregon St.,D-I
+ORTE,Oregon Tech,non-NCAA
+OSST,Oswego St.,D-III
+OTAZ,Ottawa (AZ),non-NCAA
+OTKS,Ottawa (KS),non-NCAA
+OTTE,Otterbein,D-III
+OUBA,Ouachita Baptist,D-II
+OULL,Our Lady of the Lake,non-NCAA
+OZAR,Ozarks (AR),D-III
+PAAZ,Park (AZ),non-NCAA
+PABA,Palm Beach Atl.,D-II
+PACE,Pace,D-II
+PACI,Pacific,D-I
+PAIN,Paine,
+PALU,Pacific Lutheran,D-III
+PAMO,Park (MO),non-NCAA
+PAOR,Pacific (OR),D-III
+PECO,Penn College,D-III
+PENN,Penn,D-I
+PENS,Penn St.-Altoona,D-III
+PEPP,Pepperdine,D-I
+PESA,Penn St.-Abington,D-III
+PESB,Penn St. Brandywine,D-III
+PESD,Penn St.-Du Bois,non-NCAA
+PESF,Penn St.-Fayette,non-NCAA
+PESG,Penn St.-Gr Allegheny,non-NCAA
+PESH,Penn St. Harrisburg,D-III
+PESM,Penn St.-Mont Alto,non-NCAA
+PESN,Penn St.-New Kens.,non-NCAA
+PESS,Penn St.-Schuylkill,non-NCAA
+PEST,Penn St.,D-I
+PESW,Penn St.-Wilkes Barre,non-NCAA
+PESY,Penn St.-York,non-NCAA
+PFEI,Pfeiffer,D-III
+PHSM,Philander Smith,non-NCAA
+PIBR,Pitt.-Bradford,D-III
+PIED,Piedmont,D-III
+PIGR,Pitt.-Greensburg,D-III
+PIJO,Pitt.-Johnstown,D-II
+PIKE,Pikeville,non-NCAA
+PIMA,Pine Manor,D-III
+PIST,Pittsburg St.,D-II
+PITT,Pittsburgh,D-I
+PLST,Plattsburgh St.,D-III
+PLYM,Plymouth St.,D-III
+POLO,Point Loma,D-II
+POPA,Point Park,D-II
+POPI,Pomona-Pitzer,D-III
+PORT,Portland,D-I
+POST,Post,D-II
+POUX,Point U.,non-NCAA
+PRES,Presbyterian,D-I
+PRIN,Princeton,D-I
+PRNC,Principia,D-III
+PRSN,Presentation,non-NCAA
+PRVI,Prairie View,D-I
+PSBE,Penn St.-Beaver,non-NCAA
+PSSH,Penn St.-Shenango,non-NCAA
+PSTB,Penn St.-Berks,D-III
+PSTH,Penn St.-Hazleton,non-NCAA
+PSTS,Penn St.-Scranton,non-NCAA
+PSTX,Penn St.-Behrend,D-III
+PUFW,Purdue Fort Wayne,D-I
+PUNO,Purdue Northwest,D-II
+PURC,Purchase,D-III
+PURD,Purdue,D-I
+PUSO,Puget Sound,D-III
+QNNP,Quinnipiac,D-I
+QUIN,Quincy,D-II
+QUNC,Queens (NC),D-I
+QUNY,Queens (NY),D-II
+RADF,Radford,D-I
+RAMA,Ramapo,D-III
+RAND,Randolph-Macon,D-III
+RCKH,Rockhurst,D-II
+RECO,Regis (CO),D-II
+REDL,Redlands,D-III
+REGE,Regent,D-III
+REIN,Reinhardt,non-NCAA
+RENS,Rensselaer,D-III
+RHIC,Rhode Island Col.,D-III
+RHIS,Rhode Island,D-I
+RHOD,Rhodes,D-III
+RICE,Rice,D-I
+RICH,Richmond,D-I
+RIDE,Rider,D-I
+RIPO,Ripon,D-III
+RITX,RIT,D-III
+RIVI,Rivier,D-III
+RNDL,Randall,non-NCAA
+ROAN,Roanoke,D-III
+ROCH,Rochester Christian,non-NCAA
+ROCK,Rockford,D-III
+ROHU,Rose-Hulman,D-III
+ROLL,Rollins,D-II
+ROMI,Robert Morris (IL),non-NCAA
+ROMS,Robert Morris-S'fiel,non-NCAA
+RONY,Rochester (NY),D-III
+ROOS,Roosevelt,D-II
+ROPE,Roosevelt-Peoria,non-NCAA
+ROSE,Rosemont,D-III
+ROST,Rogers St.,D-II
+ROWA,Rowan,D-III
+ROWI,Roger Williams,D-III
+RUCA,Rutgers-Camden,D-III
+RUNE,Rutgers-Newark,D-III
+RUSA,Russell Sage,D-III
+RUST,Rust,D-III
+RUTG,Rutgers,D-I
+SAAI,SAGU American Indian,non-NCAA
+SAAS,Saint Augustine's,D-II
+SACL,Santa Clara,D-I
+SADI,San Diego,D-I
+SADS,San Diego St.,D-I
+SAEL,Saint Elizabeth,D-III
+SAFR,San Francisco,D-I
+SAFS,San Fran. St.,
+SAHE,Sacred Heart,D-I
+SAHO,Sam Houston,D-I
+SAIM,Saint Mary's (CA),D-I
+SAIN,Saint Joseph's,D-I
+SAJC,Saint Joseph (CT),D-III
+SAJS,Saint John's (MN),D-III
+SALE,Saint Leo,D-II
+SALI,Salisbury,D-III
+SALO,Saint Louis,D-I
+SALS,Salem St.,D-III
+SAMF,Samford,D-I
+SAMS,Saint Martin's,D-II
+SANX,San Jose St.,D-I
+SAPS,Saint Peter's,D-I
+SARE,Salve Regina,D-III
+SARO,Saint Rose,D-II
+SAST,Sacramento St.,D-I
+SAVA,Saginaw Valley,D-II
+SAVI,Saint Vincent,D-III
+SAVS,Savannah St.,D-II
+SAWV,Salem (WV),D-II
+SCAO,Science & Arts Okla.,non-NCAA
+SCBX,S.C. Beaufort,non-NCAA
+SCHR,Schreiner,D-III
+SCRA,Scranton,D-III
+SEHA,Seton Hall,D-I
+SEHI,Seton Hill,D-II
+SELM,Selma,non-NCAA
+SEUX,Seattle U,D-I
+SEWA,Sewanee,D-III
+SFAX,SFA,D-I
+SHEN,Shenandoah,D-III
+SHEP,Shepherd,D-II
+SHIP,Shippensburg,D-II
+SHOR,Shorter,D-II
+SICA,Simpson (CA),non-NCAA
+SIEN,Siena,D-I
+SIFA,Sioux Falls,D-II
+SIHE,Siena Heights,non-NCAA
+SIMP,Simpson,D-III
+SIUE,SIUE,D-I
+SJOS,St. Joseph's (L.I.),D-III
+SKID,Skidmore,D-III
+SLRO,Slippery Rock,D-II
+SMAR,Saint Mary's (MN),D-III
+SMIC,Saint Michael's,D-II
+SOAL,South Alabama,D-I
+SOAR,Southern Ark.,D-II
+SOBA,Southwest Baptist,D-II
+SOCA,South Carolina,D-I
+SOCH,Southwestern Christ.,non-NCAA
+SOCS,Southern Conn. St.,D-II
+SODS,South Dakota St.,D-I
+SOFL,South Fla.,D-I
+SOIL,Southern Ill.,D-I
+SOIN,Southern Ind.,D-I
+SOKS,Southwestern (KS),non-NCAA
+SOLA,Southeastern La.,D-I
+SOME,Southern Me.,D-III
+SOMI,Southern Miss.,D-I
+SOMS,Southeast Mo. St.,D-I
+SONA,Southern Nazarene,D-II
+SONH,Southern N.H.,D-II
+SONM,Southwest (NM),non-NCAA
+SONO,Southern-N.O.,non-NCAA
+SOOK,Southeastern Okla.,D-II
+SOST,Sonoma St.,D-II
+SOTX,Southwestern (TX),D-III
+SOUB,Southeastern Bapt.,non-NCAA
+SOUF,Southeastern (FL),non-NCAA
+SOUM,Southwest Minn. St.,D-II
+SOUO,Southwestern Okla.,D-II
+SOUT,Southern California,D-I
+SOUX,Southern U.,D-I
+SOVA,Southern Va.,D-III
+SOVT,Southern Vt.,D-III
+SOWE,Southern Wesleyan,D-II
+SPAL,Spalding,D-III
+SPHI,Spring Hill,D-II
+SPRI,Springfield,D-III
+STAN,St. Anselm,D-II
+STAX,St. Andrews,non-NCAA
+STBO,St. Bonaventure,D-I
+STBR,Stony Brook,D-I
+STCA,St. Catharine,non-NCAA
+STCS,St. Cloud St.,D-II
+STES,St. Edward's,D-II
+STET,Stetson,D-I
+STEV,Stevens,D-III
+STFI,St. Francis (IL),non-NCAA
+STFX,St. Francis (IN),non-NCAA
+STGS,St. Gregory's,non-NCAA
+STIL,Stillman,
+STIS,Staten Island,D-II
+STJF,St. John Fisher,D-III
+STJO,St. Joseph's (ME),D-III
+STJS,St. John's (NY),D-I
+STJV,St. Joseph (VT),non-NCAA
+STJX,St. Joseph's (IN),
+STKA,St. Katherine,non-NCAA
+STLA,St. Lawrence,D-III
+STMS,St. Mary's (MD),D-III
+STMX,St. Mary's (TX),D-II
+STNF,Stanford,D-I
+STNO,St. Norbert,D-III
+STOC,Stockton,D-III
+STOL,St. Olaf,D-III
+STON,Stonehill,D-I
+STRN,Eastern,D-III
+STSC,St. Scholastica,D-III
+STST,Stanislaus St.,D-II
+STTA,St. Thomas Aquinas,D-II
+STTF,St. Thomas (FL),non-NCAA
+STTM,St. Thomas (MN),D-I
+STTT,St. Thomas (TX),D-III
+STVN,Stevenson,D-III
+STXA,St. Xavier,non-NCAA
+STXX,St. Joseph's (Brkln),D-III
+SUBR,SUNY Brockport,D-III
+SUCA,SUNY Canton,D-III
+SUCO,SUNY Cobleskill,D-III
+SUFF,Suffolk,D-III
+SUMA,SUNY Maritime,D-III
+SUNP,SUNY New Paltz,D-III
+SUON,SUNY Oneonta,D-III
+SUPO,SUNY Poly,D-III
+SURS,Sul Ross St.,D-II
+SUSQ,Susquehanna,D-III
+SWAR,Swarthmore,D-III
+TAIN,Taylor (IN),non-NCAA
+TALL,Talladega,non-NCAA
+TAMP,Tampa,D-II
+TAMX,Texas A&M-Victoria,non-NCAA
+TAST,Tarleton St.,D-I
+TATE,TAMU-Texarkana,non-NCAA
+TAXX,Texas A&M,D-I
+TCNJ,TCNJ,D-III
+TCUX,TCU,D-I
+TEAM,Tex. A&M Int'l,D-II
+TEAX,Tex. A&M-Texarkana,non-NCAA
+TECO,Texas Col.,non-NCAA
+TELU,Texas Lutheran,D-III
+TENN,Tennessee,D-I
+TENS,Tenn. Southern,non-NCAA
+TESO,Texas Southern,D-I
+TEST,Texas St.,D-I
+TETE,Tennessee Tech,D-I
+TEWE,Texas Wesleyan,non-NCAA
+TEXA,Texas,D-I
+TEXT,Texas Tech,D-I
+TEXX,Tex. A&M-Kingsville,D-II
+THGA,Thomas (GA),non-NCAA
+THIE,Thiel,D-III
+THME,Thomas (ME),D-III
+THMO,Thomas More,D-II
+TIFF,Tiffin,D-II
+TOFA,Toccoa Falls,non-NCAA
+TOLE,Toledo,D-I
+TOUG,Tougaloo,non-NCAA
+TOWS,Towson,D-I
+TRAN,Transylvania,D-III
+TRBA,Trinity Baptist,non-NCAA
+TRCH,Trinity Christian,non-NCAA
+TRCT,Trinity (CT),D-III
+TRFL,Trinity (FL),non-NCAA
+TRIL,Trinity Int'l,non-NCAA
+TRIN,Trine,D-III
+TRMC,Truett-McConnell,non-NCAA
+TRNA,Trevecca Nazarene,D-II
+TROY,Troy,D-I
+TRST,Truman St.,D-II
+TRTX,Trinity (TX),D-III
+TUFT,Tufts,D-III
+TULA,Tulane,D-I
+TUSC,Tusculum,D-II
+TUSK,Tuskegee,D-II
+UABX,UAB,D-I
+UAHX,UAH,D-II
+UALB,UAlbany,D-I
+UCCL,UC Clermont,non-NCAA
+UCCS,UCCS,D-II
+UCDA,UC Davis,D-I
+UCFX,UCF,D-I
+UCHI,UChicago,D-III
+UCIR,UC Irvine,D-I
+UCLA,UCLA,D-I
+UCON,UConn,D-I
+UCRI,UC Riverside,D-I
+UCSB,UC Santa Barbara,D-I
+UCSD,UC San Diego,D-I
+UHSP,UHSP,non-NCAA
+UICX,UIC,D-I
+UIND,UIndy,D-II
+UIWX,UIW,D-I
+ULMX,ULM,D-I
+UMBC,UMBC,D-I
+UMBO,UMass Boston,D-III
+UMDA,UMass Dartmouth,D-III
+UMES,UMES,D-I
+UMLO,UMass Lowell,D-I
+UMSV,UMSV,D-III
+UNAS,UNC Asheville,D-I
+UNCW,UNCW,D-I
+UNGR,UNC Greensboro,D-I
+UNLV,UNLV,D-I
+UNNY,Union (NY),D-III
+UNPE,UNC Pembroke,D-II
+UNTN,Union (TN),D-II
+UPIO,Upper Iowa,D-II
+URBA,Urbana,D-II
+URSI,Ursinus,D-III
+USAI,USC Aiken,D-II
+USBE,USC Beaufort,D-II
+USCI,USciences,
+USUP,USC Upstate,D-I
+UTAH,Utah,D-I
+UTAR,UT Arlington,D-I
+UTDA,UT Dallas,D-II
+UTIC,Utica,D-III
+UTMA,UT Martin,D-I
+UTPB,UT Permian Basin,D-II
+UTRG,UTRGV,D-I
+UTSA,UTSA,D-I
+UTTE,Utah Tech,D-I
+UTTY,UT Tyler,D-II
+UTVA,Utah Valley,D-I
+UVWI,UVA Wise,D-II
+UWRF,UW-River Falls,D-III
+VACS,Valley City St.,non-NCAA
+VAFO,Valley Forge,D-III
+VALP,Valparaiso,D-I
+VAND,Vanderbilt,D-I
+VANG,Vanguard,D-II
+VASS,Vassar,D-III
+VAST,Valdosta St.,D-II
+VAWE,Va. Wesleyan,D-III
+VCUX,VCU,D-I
+VILL,Villanova,D-I
+VIRG,Virginia,D-I
+VIST,Virginia St.,D-II
+VITE,Virginia Tech,D-I
+VMIX,VMI,D-I
+VOOR,Voorhees,non-NCAA
+VTCA,VTSU Castleton,D-III
+VTLY,VTSU Lyndon,D-III
+VTRB,Viterbo,non-NCAA
+WABA,Wabash,D-III
+WACO,Washington Col.,D-III
+WAFO,Wake Forest,D-I
+WAGN,Wagner,D-I
+WAJE,Wash. & Jeff.,D-III
+WALD,Waldorf,non-NCAA
+WALE,Wash. & Lee,D-III
+WALS,Walsh,D-II
+WARN,Warner,non-NCAA
+WART,Wartburg,D-III
+WASH,WashU,D-III
+WASM,Wayne St. (MI),D-II
+WASN,Wayne St. (NE),D-II
+WAST,Washington St.,D-I
+WAYL,Wayland Baptist,non-NCAA
+WAYN,Waynesburg,D-III
+WEAL,West Ala.,D-II
+WEBB,Webber Int'l,non-NCAA
+WEBS,Webster,D-III
+WECA,Western Caro.,D-I
+WECH,West Chester,D-II
+WECT,Wesleyan (CT),D-III
+WEFL,West Florida,D-I
+WEGA,West Ga.,D-I
+WEIL,Western Ill.,D-I
+WEKY,Western Ky.,D-I
+WELI,West Liberty,D-II
+WELL,Wells,D-III
+WEMI,Western Mich.,D-I
+WEMO,Westminster (MO),D-III
+WENE,Western New Eng.,D-III
+WENT,Wentworth,D-III
+WEOR,Western Ore.,D-II
+WEPA,Westminster (PA),D-III
+WESL,Wesley,D-III
+WESS,Westfield St.,D-III
+WEST,WestConn,D-III
+WETA,West Tex. A&M,D-II
+WEVI,West Virginia,D-I
+WEVS,West Virginia St.,D-II
+WEVT,West Va. Tech,non-NCAA
+WEVW,West Va. Wesleyan,D-II
+WHEE,Wheeling,D-II
+WHIL,Wheaton (IL),D-III
+WHIT,Whitman,D-III
+WHMA,Wheaton (MA),D-III
+WHTT,Whittier,D-III
+WHTW,Whitworth,D-III
+WIBA,Williams Baptist,non-NCAA
+WICA,William Carey,non-NCAA
+WIDE,Widener,D-III
+WIEC,Wis.-Eau Claire,D-III
+WIJE,William Jewell,D-II
+WILB,Wilberforce,non-NCAA
+WILC,Wis.-La Crosse,D-III
+WILE,Wiley,non-NCAA
+WILJ,William Jessup,non-NCAA
+WILK,Wilkes,D-III
+WILL,Willamette,D-III
+WILM,Wilmington (DE),D-II
+WILS,Wilson,D-III
+WILU,Wis. Lutheran,D-III
+WIMA,William & Mary,D-I
+WING,Wingate,D-II
+WINN,Winnipeg (CAN),non-NCAA
+WINO,Winona St.,D-II
+WINT,Winthrop,D-I
+WIOH,Wilmington (OH),D-III
+WIOS,Wis.-Oshkosh,D-III
+WIPA,Wis.-Parkside,D-II
+WIPE,William Peace,D-III
+WIPL,Wis.-Platteville,D-III
+WISA,Winston-Salem,
+WISP,Wis.-Stevens Point,D-III
+WIST,Wichita St.,D-I
+WISU,Wis.-Superior,D-III
+WISX,Wis.-Stout,D-III
+WITT,Wittenberg,D-III
+WIWH,Wis.-Whitewater,D-III
+WIWO,William Woods,non-NCAA
+WLLM,Williams,D-III
+WMPA,Wm. Paterson,D-III
+WOFF,Wofford,D-I
+WOOS,Wooster,D-III
+WOST,Worcester St.,D-III
+WPIX,WPI,D-III
+WRSL,Wright St.-Lake,non-NCAA
+WRST,Wright St.,D-I
+WSHB,Washburn,D-II
+WSHN,Washington,D-I
+WSTC,Westcliff,non-NCAA
+WSTM,Westmont,D-II
+XALA,Xavier (LA),non-NCAA
+XAVI,Xavier,D-I
+YALE,Yale,D-I
+YESH,Yeshiva,D-III
+YOHA,Young Harris,D-II
+YONE,York (NE),non-NCAA
+YOPA,York (PA),D-III
+YOST,Youngstown St.,D-I

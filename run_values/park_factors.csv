@@ -1,0 +1,964 @@
+team_code,school,division,stadium,seasons,home_G,road_G,home_RPG,road_RPG,PF_raw,PF
+MORE,Morehead St.,D1,Sonny Allen Field,2016-2026,242,282,17.59,12.78,137,126
+AIFO,Air Force,D1,Erdle Field,2016-2026,217,264,17.08,13.43,127,118
+SURS,Sul Ross St.,D2,Kokernot Field,2016-2026,164,153,18.62,14.30,130,118
+NEME,New Mexico,D1,Lobo Baseball Field,2016-2026,272,230,16.83,13.45,124,117
+GUIL,Guilford,D3,McBane Field,2016-2026,188,155,16.34,12.85,126,116
+BAST,Ball St.,D1,Shebek Stadium,2016-2026,216,267,14.24,11.63,122,115
+CONC,Concord,D2,Anderson Field,2016-2026,216,197,14.42,11.66,123,115
+BYUX,BYU,D1,Larry H. Miller Field,2016-2026,228,273,13.87,11.47,120,114
+BLMS,Bloomsburg,D2,Danny Litwhiler Field,2016-2026,161,237,13.94,11.36,122,114
+CSUS,CSUSB,D2,Fiscalini Field,2016-2026,194,194,14.97,12.26,121,114
+AUGU,Augusta,D2,,2016-2026,203,203,15.56,12.95,120,113
+CSUN,CSUN,D1,Robert J. Hiegert Field,2016-2026,267,263,12.45,10.52,118,113
+JUNI,Juniata,D3,Langdon-Goodale Field,2016-2026,151,159,15.46,12.71,121,113
+LABI,Lancaster Bible,D3,Charger Field,2016-2026,139,132,17.96,14.52,123,113
+MANS,Mansfield,D2,Shaute Field,2016-2026,138,217,13.36,10.89,122,113
+MSSR,Missouri,D1,Taylor Stadium,2016-2026,268,225,12.73,10.72,118,113
+SONA,Southern Nazarene,D2,Feland Field,2016-2026,193,193,16.95,14.12,119,113
+UCCS,UCCS,D2,Mountain Lion Park,2017-2026,190,188,17.03,14.04,121,113
+WECA,Western Caro.,D1,Ronnie G. Childress Field at Hennon Stadium,2016-2026,262,238,15.51,12.97,119,113
+WIDE,Widener,D3,Widener Baseball Field,2016-2026,142,155,14.29,11.55,123,113
+FRAN,Franciscan,D3,Vaccaro Field,2021-2026,89,81,17.40,13.60,127,112
+LUCH,Lubbock Christian,D2,Hays Field,2016-2026,226,225,14.77,12.56,117,112
+UCRI,UC Riverside,D1,Riverside Sports Complex,2016-2026,265,262,13.01,11.12,116,112
+ADST,Adams St.,D2,Adams State University Baseball Field,2016-2026,174,179,18.32,15.56,117,111
+LEHM,Lehman,D3,South Field,2016-2026,100,132,19.21,15.70,122,111
+MARB,Mary Baldwin,D3,Shifflett Field,2021-2026,102,101,18.39,15.12,121,111
+NMHX,N.M. Highlands,D2,Brandt Field,2016-2026,171,199,17.18,14.48,118,111
+OLMI,Ole Miss,D1,Oxford-University Stadium/Swayze Field,2016-2026,335,221,12.92,11.10,116,111
+PIGR,Pitt.-Greensburg,D3,Ridilla Field,2016-2026,134,116,16.70,13.70,121,111
+PUNO,Purdue Northwest,D2,Dowling Park,2017-2026,154,167,12.97,10.95,118,111
+TAST,Tarleton St.,D1,Tarleton State Baseball Complex,2016-2026,254,234,14.00,12.07,115,111
+UTMA,UT Martin,D1,Skyhawk Baseball Field,2016-2026,245,269,14.86,12.79,116,111
+UTVA,Utah Valley,D1,UCCU Ballpark,2016-2026,233,307,14.16,12.21,115,111
+APST,App State,D1,Beaver Field at Jim and Bettie Smith Stadium,2016-2026,256,257,13.41,11.70,114,110
+CEWA,Central Wash.,D2,CWU Baseball Field,2016-2026,184,197,14.13,12.14,116,110
+EANM,Eastern N.M.,D2,Greyhound Baseball Field,2016-2026,185,206,15.81,13.62,115,110
+GUAD,Gustavus Adolphus,D3,Gustie Baseball Field,2016-2026,147,127,12.38,10.50,117,110
+HART,Hartford,D3,Fiondella Field,2016-2026,198,234,13.58,11.81,114,110
+KENS,Kentucky St.,D2,Western Hills,2016-2026,189,150,17.52,14.88,117,110
+KNOX,Knox,D3,Blodgett Field,2016-2026,139,134,16.19,13.78,117,110
+NEWE,Neb. Wesleyan,D3,Sandhills Global Youth Complex,2016-2026,140,146,14.20,12.08,117,110
+NEMS,New Mexico St.,D1,Presley Askew Field,2016-2026,284,243,15.76,13.76,114,110
+TEXT,Texas Tech,D1,Dan Law Field at Rip Griffin Park,2016-2026,315,215,14.50,12.63,114,110
+USBE,USC Beaufort,D2,Richard Gray Sports Complex,2023-2026,71,69,16.77,13.32,125,110
+UVWI,UVA Wise,D2,Burchell Stallard Field,2016-2026,192,205,14.17,12.31,114,110
+ASHL,Ashland,D2,Donges Field,2016-2026,187,194,13.32,11.69,113,109
+AUIL,Augustana (IL),D3,Swanson Stadium/Brunner Field,2016-2026,160,127,14.34,12.23,117,109
+CABR,Cabrini,D3,Cabrini-Carroll Field,2017-2024,111,94,15.13,12.71,118,109
+CANI,Canisius,D1,Demske Sports Complex,2016-2026,174,279,13.29,11.57,114,109
+EACE,East Central,D2,Ken Turner Field,2016-2026,203,184,15.67,13.72,114,109
+EMHE,Emory & Henry,D2,Porterfield-DeVault Field,2016-2026,170,166,15.77,13.67,115,109
+ERSK,Erskine,D2,Grier Field,2016-2026,194,218,15.12,13.28,113,109
+FRNK,Franklin,D3,John P. McDowell Field,2016-2026,197,136,16.98,14.62,115,109
+FURM,Furman,D1,Latham Stadium,2016-2020,129,105,13.21,11.26,117,109
+HASI,Hardin-Simmons,D3,Hunter Field,2016-2026,185,173,14.55,12.76,113,109
+JAMA,James Madison,D1,Eagle Field at Veterans Memorial Park,2016-2026,261,250,12.98,11.42,113,109
+MIMO,Minn.-Morris,D3,Chizek Field,2016-2026,98,108,16.18,13.61,118,109
+NEVA,Nevada,D1,Don Weir Field at William Peccole Park,2016-2026,241,280,13.75,12.20,112,109
+NEWM,Newman,D2,McCarthy Field,2016-2026,231,183,16.06,14.09,113,109
+NOCO,Northern Colo.,D1,Jackson Field,2016-2026,185,307,14.96,13.12,113,109
+PIST,Pittsburg St.,D2,Al Ortolani Field,2016-2026,239,200,15.39,13.48,114,109
+SAEL,Saint Elizabeth,D3,Lidgerwood Field,2020-2026,58,114,17.33,13.98,123,109
+TRCT,Trinity (CT),D3,DiBenedetto Stadium,2016-2026,150,122,13.77,11.69,117,109
+UIWX,UIW,D1,Sullivan Field,2016-2026,259,253,14.01,12.37,113,109
+VIRG,Virginia,D1,Davenport Field at Disharoon Park,2016-2026,334,200,13.40,11.77,113,109
+YOPA,York (PA),D3,Jaquet Field,2016-2026,161,196,15.29,13.28,115,109
+AUMX,AUM,D2,AUM Baseball Complex,2016-2026,184,169,13.41,11.80,113,108
+BART,Barton,D2,Fleming Stadium,2016-2026,218,177,14.65,13.03,112,108
+BLAC,Blackburn,D3,Beaver Field,2016-2026,142,155,15.27,13.27,114,108
+BOGR,Bowling Green,D1,Warren E. Steller Field,2016-2026,204,294,13.22,11.73,112,108
+CASS,Cal St. San Marcos,D2,Dennis A. Pugh Field,2016-2026,197,174,14.41,12.79,112,108
+CABA,California Baptist,D1,James W. Totman Stadium,2016-2026,275,260,12.35,11.02,111,108
+COLU,Columbia,D1,Robertson Field at Satow Stadium,2016-2026,150,242,14.85,13.00,114,108
+FLSO,Fla. Southern,D2,Henley Field,2016-2026,208,208,13.75,12.25,112,108
+GETE,Georgia Tech,D1,Mac Nease Baseball Park at Russ Chandler Stadium,2016-2026,324,229,14.59,12.97,112,108
+HAVE,Haverford,D3,Kannerstein Field,2016-2026,113,134,15.03,13.05,115,108
+LEMO,Le Moyne,D1,Dick Rockwell Field,2016-2026,154,245,13.05,11.46,113,108
+LIPA,Lincoln (PA),D2,LU Baseball Field,2016-2026,159,196,16.08,14.16,113,108
+LSVL,Louisville,D1,Jim Patterson Stadium,2016-2026,347,217,13.29,11.80,112,108
+MIVA,Mississippi Val.,D1,Magnolia Field,2016-2026,179,230,16.17,14.29,113,108
+REDL,Redlands,D3,The Yard,2016-2026,168,142,13.70,12.01,113,108
+ROCK,Rockford,D3,Rockford Campus Baseball Field,2016-2026,144,147,13.90,12.22,113,108
+SAPS,Saint Peter's,D1,Jaroschak Field,2016-2026,167,296,16.37,14.35,113,108
+SIFA,Sioux Falls,D2,Sioux Falls Stadium,2016-2026,159,222,13.75,12.10,113,108
+SLRO,Slippery Rock,D2,Jack Critchfield Park,2016-2026,211,176,11.54,10.24,112,108
+SOVA,Southern Va.,D3,Harvey-Dryden Field,2016-2026,136,165,16.51,14.47,114,108
+STIS,Staten Island,D2,CSI Baseball Complex,2016-2026,173,142,14.55,12.78,113,108
+WIMA,William & Mary,D1,Plumeri Park,2016-2026,266,260,13.08,11.64,112,108
+WISX,Wis.-Stout,D3,Wakanda Park,2016-2026,132,129,14.66,12.71,115,108
+ALDE,Alderson Broaddus,D2,Jack Funk Field,2016-2023,111,143,14.04,12.38,113,107
+AZPA,Azusa Pacific,D2,Cougar Baseball Field,2016-2026,221,210,13.43,12.15,110,107
+BRYA,Bryant,D1,Conaty Park,2016-2026,209,295,13.28,12.03,110,107
+CASD,Cal St. Dom. Hills,D2,Toro Field,2016-2026,199,184,13.16,11.74,112,107
+CATH,Catholic,D3,Talbot Field,2016-2026,189,154,13.86,12.32,112,107
+CHOW,Chowan,D2,Hawkins Field,2016-2026,177,175,15.40,13.83,111,107
+DAYT,Dayton,D1,Woerner Field at AES Ohio Stadium,2016-2026,248,279,13.79,12.50,110,107
+DELA,Delaware,D1,Bob Hannah Stadium,2016-2026,265,243,13.62,12.34,110,107
+EAME,East. Mennonite,D3,EMU Baseball Field,2016-2026,189,143,16.98,15.15,111,107
+EURE,Eureka,D3,Henry Sand Field,2016-2026,147,155,14.71,13.01,112,107
+IOWA,Iowa,D1,Duane Banks Field,2016-2026,234,208,12.55,11.37,110,107
+LORA,Loras,D3,Petrakis Park,2016-2026,120,162,14.49,12.71,113,107
+MNHT,Manhattanville,D3,Manhattanville Field,2016-2026,170,148,14.72,13.13,112,107
+MCKE,McKendree,D2,Hypes Field,2016-2026,227,211,14.71,13.28,110,107
+MOSB,Mont. St. Billings,D2,Dehler Park,2016-2026,184,228,15.10,13.57,111,107
+MOAL,Mount Aloysius,D3,Calandra-Smith,2016-2026,130,165,15.25,13.51,112,107
+NCHL,Nichols,D3,Nichols Baseball Field,2016-2026,144,170,14.10,12.57,112,107
+NORW,Norwich,D3,Garrity Field,2016-2026,93,126,12.66,10.95,115,107
+OAKL,Oakland,D1,Oakland Baseball Field,2016-2026,178,341,14.84,13.34,111,107
+PITT,Pittsburgh,D1,Petersen Sports Complex Charles L. Cost Field,2016-2026,224,216,13.29,11.99,110,107
+QUIN,Quincy,D2,QU Stadium,2016-2026,233,232,14.00,12.70,110,107
+ROWA,Rowan,D3,Rowan Baseball Field,2016-2026,155,151,14.13,12.57,112,107
+SACL,Santa Clara,D1,Stephen Schott Stadium,2016-2026,278,248,11.61,10.46,110,107
+STTT,St. Thomas (TX),D3,St. Thomas High School Field,2020-2026,86,106,14.28,12.40,115,107
+TOLE,Toledo,D1,Fifth Third Field,2016-2026,192,338,13.20,11.88,111,107
+WHTW,Whitworth,D3,Merkel Field,2016-2026,150,186,13.49,11.99,112,107
+WING,Wingate,D2,Ron Christopher Stadium,2016-2026,227,204,13.46,12.11,111,107
+YOST,Youngstown St.,D1,Eastwood Field,2016-2026,201,341,14.16,12.80,110,107
+ANIN,Anderson (IN),D3,Don Brandon Field,2016-2026,152,126,14.78,13.29,111,106
+ARIZ,Arizona,D1,Hi Corbett Field,2016-2026,311,229,13.25,12.12,109,106
+BLST,Bluefield St.,D2,Bowen Field,2016-2026,140,155,15.24,13.85,109,106
+CHSO,Charleston So.,D1,Nielsen Field at CSU Ballpark,2016-2026,279,232,13.20,12.12,108,106
+COCA,Coastal Carolina,D1,Springs Brooks Stadium,2016-2026,321,254,13.77,12.61,109,106
+DBUX,DBU,D1,Horner Ballpark,2016-2026,317,235,12.85,11.82,108,106
+DEAN,Dean,D3,Longley Baseball Field,2017-2026,136,135,14.71,13.30,110,106
+FONT,Fontbonne,,Shaw Park,2016-2025,161,134,13.71,12.27,111,106
+FRPA,Fresno Pacific,D2,Dan Martin Stadium,2016-2026,220,199,12.32,11.27,109,106
+FROS,Frostburg St.,D2,Bob Wells Field,2016-2026,146,172,14.36,12.95,110,106
+HARV,Harvard,D1,O'Donnell Field,2016-2026,133,192,12.92,11.69,110,106
+HIRA,Hiram,D3,Fishel Field at Proverbs Park,2016-2026,133,144,15.24,13.76,110,106
+ILLI,Illinois,D1,Illinois Field,2016-2026,204,226,12.99,11.84,109,106
+INPA,Indiana (PA),D2,Owen J. Dougherty Complex,2016-2026,185,217,12.93,11.83,109,106
+JEFF,Jefferson,D2,Alumni Field,2016-2026,217,184,14.53,13.28,109,106
+LIMO,Lincoln (MO),D2,Vivion Field,2016-2026,58,54,18.86,16.15,116,106
+MALO,Malone,D2,Thurman Munson Memorial Stadium,2016-2026,165,186,11.44,10.40,109,106
+MANC,Manchester,D3,Gratz Field,2016-2026,135,147,14.77,13.26,111,106
+MRYL,Maryland,D1,"Bob ""Turtle"" Smith Stadium",2016-2026,252,267,13.83,12.65,109,106
+MCMU,McMurry,D3,Walt Driggers Field,2016-2026,183,160,13.75,12.49,110,106
+MISS,Mississippi St.,D1,"Dudy Noble Field, Polk-DeMent Stadium",2016-2026,349,195,12.63,11.44,110,106
+MOSM,Mount St. Mary's,D1,E.T. Straw Family Stadium,2016-2026,221,235,14.80,13.58,108,106
+OGLE,Oglethorpe,D3,Hermance Stadium,2016-2026,183,183,13.99,12.73,109,106
+POPI,Pomona-Pitzer,D3,Alumni Field,2016-2026,182,141,14.57,13.19,110,106
+RHIC,Rhode Island Col.,D3,Anchorman Field,2016-2026,141,139,14.69,13.24,110,106
+SUNP,SUNY New Paltz,D3,Loren Campbell Memorial Field,2016-2026,109,172,13.48,12.05,111,106
+SALE,Saint Leo,D2,Thomas B. Southard,2016-2026,228,188,14.08,12.76,110,106
+THMO,Thomas More,D2,Thomas More Stadium,2016-2026,138,99,13.51,12.07,111,106
+UMBC,UMBC,D1,Alumni Field,2016-2026,235,241,13.33,12.23,108,106
+USUP,USC Upstate,D1,Cleveland S. Harley Baseball Park,2016-2026,304,243,13.53,12.44,108,106
+UTTE,Utah Tech,D1,Bruce Hurst Field,2016-2026,259,238,13.97,12.86,108,106
+VMIX,VMI,D1,Lamore Field at Gray-Minor Stadium,2016-2026,291,245,14.70,13.52,108,106
+VALP,Valparaiso,D1,Emory G. Bauer Field,2016-2026,169,320,12.77,11.65,109,106
+WITT,Wittenberg,D3,Carleton Davidson Stadium,2016-2026,155,152,15.15,13.74,110,106
+ALAM,Alabama A&M,D1,Bulldog Baseball Field,2016-2026,222,250,15.57,14.34,108,105
+ARST,Arizona St.,D1,Phoenix Municipal Stadium,2016-2026,329,222,13.35,12.35,108,105
+AUBU,Auburn,D1,Plainsman Park,2016-2026,341,215,12.52,11.60,107,105
+AUPE,Austin Peay,D1,Raymond C. Hand Park,2016-2026,275,262,15.35,14.35,106,105
+BENE,Benedict,D2,,2016-2026,180,118,18.83,17.24,109,105
+BRAN,Brandeis,D3,Stein Diamond,2016-2026,148,127,13.99,12.72,109,105
+BRST,Bridgewater St.,D3,Alumni Park,2016-2026,146,142,11.82,10.75,109,105
+CAWI,Carroll (WI),D3,Frame Park,2016-2026,153,149,14.92,13.76,108,105
+CANE,Carson-Newman,D2,Silver Diamond Baseball Complex,2016-2026,232,177,13.27,12.30,107,105
+CART,Carthage,D3,Augie Schmidt Field,2016-2026,139,148,13.49,12.39,108,105
+CEOK,Central Okla.,D2,Wendell Simmons Field,2016-2026,215,217,13.68,12.68,107,105
+CLSU,Clarks Summit,D3,,2016-2024,67,112,18.10,16.17,111,105
+COSP,Concordia-St. Paul,D2,Robert E. Barnes Field,2016-2026,85,148,13.72,12.36,110,105
+CRMN,Crown (MN),D3,,2016-2026,97,122,16.24,14.66,110,105
+DELT,Delta St.,D2,"Tim &amp; Nancy Harvey Stadium-Dave ""Boo"" Ferriss Field",2016-2026,220,208,13.14,12.23,107,105
+FDUX,FDU,D1,Naimoli Family Baseball Complex,2016-2026,221,263,14.52,13.51,107,105
+FERR,Ferrum,D2,Panther Field,2016-2026,200,156,14.95,13.79,108,105
+FLST,Florida St.,D1,Mike Martin Field at Dick Howser Stadium,2016-2026,349,219,12.26,11.42,107,105
+HAPA,Hawaii Pacific,D2,Hans L'Orange Field,2016-2026,213,200,12.36,11.42,108,105
+INST,Indiana St.,D1,Bob Warn Field at Sycamore Stadium,2016-2026,202,260,11.98,11.15,107,105
+KANS,Kansas,D1,Hoglund Ballpark,2016-2026,245,262,12.92,11.97,107,105
+LSUX,LSU,D1,"Alex Box Stadium, Skip Bertman Field",2016-2026,378,204,12.43,11.56,107,105
+LASA,La Salle,D1,Hank DeVincent Field,2016-2026,152,175,12.86,11.75,109,105
+LAKE,Lakeland,D3,Muskie Field,2016-2026,139,129,14.96,13.76,108,105
+MACA,Macalester,D3,Nicholson Field,2016-2026,114,113,12.88,11.65,110,105
+MAWI,Marian (WI),D3,Herr-Baker Field,2016-2026,137,146,13.16,12.09,108,105
+MEPI,Me.-Presque Isle,D3,,2017-2026,81,143,13.59,12.28,110,105
+MONT,Montevallo,D2,Kermit A. Johnson Field,2016-2026,212,194,13.59,12.62,107,105
+NCAX,N.C. A&T,D1,War Memorial Stadium,2016-2026,249,258,13.22,12.33,107,105
+NEKE,Neb.-Kearney,,Memorial Field,2016-2018,58,71,16.09,14.20,113,105
+NOOK,Northwestern Okla.,D2,Myers Stadium,2016-2026,216,187,13.47,12.47,107,105
+OKLA,Oklahoma,D1,Kimrey Family Stadium,2016-2026,281,225,12.47,11.62,107,105
+OZAR,Ozarks (AR),D3,Lonnie R. Qualls Field at Thomas and Frances Wilson Complex,2016-2026,184,162,14.07,13.01,108,105
+PIBR,Pitt.-Bradford,D3,Repchick Family Field,2016-2026,95,127,13.24,12.02,110,105
+PLYM,Plymouth St.,D3,Parish Field,2016-2026,97,139,15.42,13.82,111,105
+RICE,Rice,D1,Reckling Park,2016-2026,303,240,11.49,10.70,107,105
+SARE,Salve Regina,D3,Brother Reynolds Field,2016-2026,179,149,12.66,11.62,108,105
+SODS,South Dakota St.,D1,Erv Huether Field,2016-2026,157,290,13.47,12.41,108,105
+SOUX,Southern U.,D1,Lee-Hines Field,2016-2026,192,229,15.46,14.33,107,105
+STOL,St. Olaf,D3,Mark Almli Field in Carlander Stadium,2016-2026,108,122,12.77,11.60,110,105
+TEST,Texas St.,D1,Bobcat Ballpark,2016-2026,314,240,12.42,11.50,107,105
+VAST,Valdosta St.,D2,Billy Grant Field at Tommy Thomas Park,2016-2026,202,181,12.80,11.85,108,105
+WASN,Wayne St. (NE),D2,Pete Chapman Baseball Complex,2016-2026,153,202,13.97,12.82,108,105
+WETA,West Tex. A&M,D2,Wilder Park,2016-2026,216,230,13.78,12.73,108,105
+WIST,Wichita St.,D1,Eck Stadium,2016-2026,292,242,12.27,11.43,107,105
+BERR,Berry,D3,William R. Bowdoin,2016-2026,191,169,13.88,12.92,107,104
+BROW,Brown,D1,Attanasio Family Field at Murray Stadium,2016-2026,151,195,11.99,11.19,107,104
+BUVI,Buena Vista,D3,Storm Lake High School-BVU Field,2016-2026,132,136,12.52,11.68,107,104
+CSBA,CSU Bakersfield,D1,Hardt Field,2016-2026,283,235,12.00,11.31,106,104
+CAIR,Cairn,D3,Stillman Athletic Complex,2016-2026,145,143,14.96,13.98,106,104
+CAPO,Cal Poly,D1,Baggett Stadium,2016-2026,305,256,11.27,10.63,105,104
+CAZE,Cazenovia,D3,Onondaga Baseball Complex,2016-2023,50,95,15.02,13.49,111,104
+CHAM,Chaminade,D2,Central Oahu Regional Park,2024-2026,58,62,12.95,11.58,111,104
+CLAF,Claflin,D2,Historic Mirmow Field,2016-2026,184,156,17.34,16.19,107,104
+COPP,Coppin St.,D1,Joe Cannon Stadium,2016-2026,212,238,15.18,14.19,106,104
+COVE,Covenant,D3,Covenant Baseball Field,2016-2026,182,140,14.56,13.47,108,104
+EDGE,Edgewood,D3,Stampfl Field,2016-2026,139,152,13.96,12.97,107,104
+GRCI,Grove City,D3,R. Jack Behringer Field,2016-2026,128,161,12.91,12.07,106,104
+HUNT,Huntingdon,D3,Neal Posey Field,2016-2026,181,136,13.77,12.79,107,104
+ILSP,Ill. Springfield,D2,UIS Baseball Field,2016-2026,245,202,14.38,13.52,106,104
+ILCO,Illinois Col.,D3,Joe Brooks Baseball Field,2016-2026,157,128,15.65,14.51,107,104
+INDI,Indiana,D1,Bart Kaufman Field,2016-2026,253,244,12.72,11.90,106,104
+KEST,Keene St.,D3,Owl Athletic Complex,2016-2026,116,170,13.72,12.66,108,104
+LAVE,La Verne,D3,Ben Hines Field,2016-2026,195,161,13.74,12.80,107,104
+LINC,Lincoln Memorial,D2,Hennon Field,2016-2026,200,195,13.81,12.91,106,104
+MASS,Massachusetts,D1,Earl Lorden Field,2016-2026,160,266,12.76,11.99,106,104
+MEMP,Memphis,D1,FedExPark,2016-2026,305,241,12.27,11.53,106,104
+MERR,Merrimack,D1,,2016-2026,174,247,13.21,12.43,106,104
+MINN,Minnesota,D1,Siebert Field,2016-2026,252,223,11.96,11.30,105,104
+MSTX,Missouri St.,D1,Hammons Field,2016-2026,245,276,13.11,12.33,106,104
+NCCX,N.C. Central,D1,Durham Athletic Park,2016-2021,148,116,12.05,11.09,108,104
+NEJC,New Jersey City,D3,Thomas M. Gerrity Athletic Complex,2016-2026,137,189,15.14,14.15,106,104
+NORS,Northeastern St.,D2,Thomas C. Rousey Field,2016-2026,230,193,15.19,14.21,106,104
+NOKY,Northern Ky.,D1,Bill Aker Baseball Complex,2016-2026,224,306,15.15,14.16,106,104
+NONA,Northwest Nazarene,D2,Elmore W. Vail Baseball Field,2016-2026,218,199,12.47,11.65,107,104
+NOSO,Nova Southeastern,D2,NSU Baseball Complex,2016-2026,197,201,13.09,12.35,105,104
+OCCI,Occidental,D3,Anderson Field,2016-2026,181,136,13.69,12.67,107,104
+PACI,Pacific,D1,Klein Family Field,2016-2026,265,264,12.52,11.78,106,104
+PSTB,Penn St.-Berks,D3,Hintz Athletic Fields,2016-2026,123,141,16.10,15.04,106,104
+RADF,Radford,D1,Sherman Carter Memorial Stadium,2016-2026,264,254,13.28,12.47,106,104
+RAND,Randolph-Macon,D3,Estes Park,2016-2026,216,157,14.48,13.58,106,104
+RECO,Regis (CO),D2,Regis Baseball Field,2016-2026,212,208,15.90,14.98,106,104
+RICH,Richmond,D1,Pitt Field,2016-2026,292,215,13.43,12.55,106,104
+RIPO,Ripon,D3,Francis Field,2016-2026,120,146,14.67,13.48,108,104
+ROSE,Rosemont,D3,Hueser Park,2022-2026,79,86,17.44,16.01,108,104
+SHEN,Shenandoah,D3,Kevin Anderson Field at Bridgeforth Stadium,2016-2026,244,165,13.94,12.95,107,104
+SOUM,Southwest Minn. St.,D2,Alumni Field,2016-2026,132,111,12.98,12.06,107,104
+SJOS,St. Joseph's (L.I.),D3,St. Joseph's Outdoor Complex,2016-2026,183,129,13.04,12.13,107,104
+UAHX,UAH,D2,Charger Park,2016-2026,204,183,14.07,13.14,106,104
+UNAS,UNC Asheville,D1,Greenwood Field,2016-2026,260,253,13.50,12.80,105,104
+UNLV,UNLV,D1,Wilson Stadium,2016-2026,282,230,14.12,13.20,106,104
+UNNY,Union (NY),D3,Central Park,2016-2026,139,141,13.35,12.45,107,104
+URBA,Urbana,D2,Blue Knight Stadium,2016-2019,77,78,12.51,11.45,109,104
+UTAH,Utah,D1,Charlie Monfort Field at America First Ballpark,2016-2026,221,269,13.03,12.17,106,104
+UTIC,Utica,D3,Utica Baseball Field,2016-2026,105,144,15.82,14.59,108,104
+VITE,Virginia Tech,D1,English Field,2016-2026,304,222,13.13,12.42,105,104
+WPIX,WPI,D3,New England Baseball Complex,2016-2026,139,114,15.11,14.00,107,104
+WHIT,Whitman,D3,Borleske Stadium,2016-2026,153,174,13.62,12.70,107,104
+WHTT,Whittier,D3,Hugh B. Mendez Stadium,2016-2026,170,135,13.55,12.67,106,104
+WISP,Wis.-Stevens Point,D3,Zimmermann Field,2016-2026,152,135,13.81,12.90,107,104
+ANMA,Anna Maria,D3,Marlbourgh High School,2016-2026,141,142,13.13,12.50,105,103
+ARCA,Arcadia,D3,Skip Wilson Field,2016-2026,171,172,13.61,12.97,104,103
+CCNY,CCNY,D3,Ohio Field,2016-2026,92,172,14.74,13.84,106,103
+CASL,Cal State LA,D2,Reeder Field,2016-2026,200,172,13.32,12.71,104,103
+CINC,Cincinnati,D1,UC Baseball Stadium,2016-2026,262,274,12.40,11.79,105,103
+COLB,Colby,D3,Coombs Field,2016-2026,138,101,11.83,11.06,106,103
+COCO,Cornell College,D3,Ash Park,2016-2026,137,147,14.13,13.44,105,103
+DAVI,Davidson,D1,Wilson Field,2016-2026,291,219,13.66,13.04,104,103
+EATB,East Tex. Baptist,D3,Tiger Ball Park at Woods Field,2016-2026,225,171,13.38,12.68,105,103
+EMER,Emerson,D3,St. John's Prep,2016-2026,118,104,14.42,13.44,107,103
+FLAT,Fla. Atlantic,D1,FAU Baseball Stadium,2016-2026,329,223,12.40,11.89,104,103
+FRST,Framingham St.,D3,Bowditch Field,2016-2026,121,153,13.14,12.31,106,103
+GALL,Gallaudet,,Hoy Field,2016-2023,118,77,17.39,16.18,107,103
+GEST,Georgia St.,D1,GSU Baseball Complex,2016-2026,301,254,13.27,12.72,104,103
+HOUS,Houston,D1,Darryl &amp; Lori Schroeder Park,2016-2026,291,224,11.32,10.75,105,103
+HOCH,Houston Christian,D1,Husky Field,2016-2026,239,273,12.00,11.41,105,103
+HOPA,Howard Payne,D3,Don Shepard Park,2016-2026,160,164,14.09,13.42,104,103
+JOCA,John Carroll,D3,Schweickert Field,2016-2026,128,161,13.98,13.28,105,103
+KAST,Kansas St.,D1,Tointon Family Stadium,2016-2026,271,233,12.88,12.33,104,103
+KENN,Kennesaw St.,D1,Mickey Dunn Stadium at Henssler Financial Field,2016-2026,292,260,12.72,12.10,105,103
+LAFA,Lafayette,D1,Kamine Stadium,2016-2026,176,287,13.49,12.90,104,103
+LECL,Lewis & Clark,D3,Huston Sports Complex,2016-2026,141,171,13.77,12.95,106,103
+LONG,Longwood,D1,Charles Buddy Bolding Stadium,2016-2026,257,273,13.34,12.70,105,103
+LOTE,Louisiana Tech,D1,J.C. Love Field at Pat Patterson Park,2016-2026,313,253,12.04,11.57,104,103
+LYNN,Lynn,D2,Lynn Baseball Field,2016-2026,216,174,13.84,13.13,105,103
+MAHI,Mars Hill,D2,Henderson Field,2016-2026,203,202,14.68,14.05,104,103
+MISE,Misericordia,D3,Tambur Field,2016-2026,167,173,13.43,12.82,104,103
+NEUM,Neumann,D3,Bruder Baseball Field,2016-2026,149,141,13.99,13.30,105,103
+NOFL,North Florida,D1,Dusty Rhodes Field at Harmon Stadium,2016-2026,315,221,11.95,11.34,105,103
+OTTE,Otterbein,D3,Fishbaugh Field,2016-2026,129,152,14.19,13.36,106,103
+PENS,Penn St.-Altoona,D3,Stewart Athletic Field,2016-2026,113,157,15.71,14.68,106,103
+PRVI,Prairie View,D1,Tankersley Field,2016-2026,192,248,15.31,14.54,105,103
+RENS,Rensselaer,D3,Robison Field,2016-2026,176,127,12.64,11.89,106,103
+RONY,Rochester (NY),D3,Towers Field,2016-2026,159,160,13.30,12.54,105,103
+SUPO,SUNY Poly,D3,Peter A. Spina Field,2016-2026,88,125,14.41,13.45,107,103
+SAJS,Saint John's (MN),D3,Haugen Field at Becker Park,2016-2026,132,117,10.94,10.35,105,103
+SCRA,Scranton,D3,Volpe Field,2016-2026,168,152,14.74,14.00,105,103
+SHOR,Shorter,D2,Robert H. Ledbetter Baseball Complex,2016-2026,197,185,13.04,12.42,104,103
+SOTX,Southwestern (TX),D3,Rockwell Family Baseball Field,2016-2026,198,168,14.47,13.83,104,103
+STJS,St. John's (NY),D1,Jack Kaiser Stadium,2016-2026,244,256,12.09,11.56,104,103
+STLA,St. Lawrence,D3,Tom Fay Field,2016-2026,122,130,13.88,13.11,105,103
+STNO,St. Norbert,D3,Van Alstine Field,2016-2026,130,129,13.46,12.68,106,103
+TOWS,Towson,D1,John B. Schuerholz Park,2016-2026,254,281,13.19,12.53,105,103
+UCSD,UC San Diego,D1,Triton Ballpark,2016-2026,264,225,12.48,11.87,105,103
+ULMX,ULM,D1,Lou St. Amant Field,2016-2026,283,258,12.66,12.15,104,103
+UTSA,UTSA,D1,Roadrunner Field,2016-2026,285,254,13.29,12.64,105,103
+WELI,West Liberty,D2,Kovalick Field,2016-2026,170,207,12.07,11.38,106,103
+WEST,WestConn,D3,Westside Field,2016-2026,102,116,15.42,14.42,106,103
+WENE,Western New Eng.,D3,George E. Trelease Memorial Park,2016-2026,144,155,12.96,12.32,105,103
+WIJE,William Jewell,D2,Talley Stadium at Fred Flook Field,2016-2026,250,192,14.28,13.56,105,103
+WILM,Wilmington (DE),D2,Wilson Field at Jim Sherman Sr. Stadium,2016-2026,190,178,12.95,12.26,105,103
+WISA,Winston-Salem,,BB&amp;T Ballpark,2016-2019,94,61,11.78,10.92,107,103
+YOHA,Young Harris,D2,Zell B. Miller Field,2016-2026,220,216,14.60,13.94,104,103
+ADEL,Adelphi,D2,William J. Bonomo Memorial Field,2016-2026,196,175,12.22,11.83,103,102
+ALMA,Albertus Magnus,D3,Rochford Field,2016-2026,108,125,13.94,13.35,104,102
+ANSC,Anderson (SC),D2,Anderson Memorial Stadium,2016-2026,215,202,13.80,13.38,103,102
+ANST,Angelo St.,D2,Foster Field at 1st Community Credit Union Stadium,2016-2026,270,227,13.85,13.33,103,102
+BARR,Barry,D2,Feinbloom Field,2016-2026,232,170,13.30,12.88,103,102
+BATE,Bates,D3,Leahey Field,2016-2026,112,129,11.99,11.43,104,102
+BLUF,Bluffton,D3,Memorial Field,2016-2026,142,136,13.58,13.07,103,102
+CALU,Cal Lutheran,D3,Ullman Stadium,2016-2026,199,149,12.14,11.61,104,102
+CHHI,Chestnut Hill,D2,Hostelley Field,2016-2026,179,188,13.69,13.22,103,102
+COSA,Colby-Sawyer,D3,Kelsey Field,2016-2026,97,133,12.47,12.02,103,102
+COLO,Colo. Christian,D2,All Star Park,2016-2026,159,225,16.16,15.46,104,102
+COSM,Colo. Sch. of Mines,D2,Jim Darden Field,2016-2026,187,212,15.65,15.06,103,102
+DESA,DeSales,D3,Weiland Park,2016-2026,164,169,14.08,13.59,103,102
+DEVA,Delaware Valley,D3,Frank Wolfgang Field,2016-2026,137,145,14.83,14.26,103,102
+ELMS,Elms,D3,Mackenzie Stadium,2016-2026,116,138,12.10,11.60,104,102
+FRPI,Franklin Pierce,D2,Pappas Field,2016-2026,180,192,12.58,12.07,104,102
+GENE,Geneva,D3,33rd Street Field,2016-2026,138,122,14.43,13.91,103,102
+GEOR,Georgetown,D1,Capital One Park,2016-2026,233,247,12.53,12.05,103,102
+GRGX,Georgia,D1,Foley Field,2016-2026,347,221,12.36,11.89,103,102
+GRAM,Grambling,D1,Wilbert Ellis Field at R.W.E. Jones Park,2016-2026,195,235,16.63,16.08,103,102
+GRIN,Grinnell,D3,Pioneer Park,2016-2026,117,137,15.74,15.09,104,102
+HONA,Holy Names,D2,,2016-2023,141,153,11.78,11.27,104,102
+ILTE,Illinois Tech,D3,Ed Glancy Field,2017-2026,110,151,15.35,14.74,104,102
+KENT,Kent St.,D1,Schoonover Stadium,2016-2026,241,281,12.71,12.36,102,102
+MAHB,Mary Hardin-Baylor,D3,Red Murff Field,2016-2026,181,172,12.99,12.59,103,102
+MEFA,Me.-Farmington,D3,Hippach Field,2016-2026,93,157,12.12,11.68,103,102
+MIFL,Miami (FL),D1,Alex Rodriguez Park at Mark Light Field,2016-2026,340,223,11.93,11.51,103,102
+MITE,Middle Tenn.,D1,Reese Smith Jr. Field,2016-2026,279,262,12.50,12.06,103,102
+MSXX,Missouri S&T,D2,Ballpark at S&amp;T,2016-2026,223,206,14.02,13.56,103,102
+MOSS,Mo. Southern St.,D2,Warren Turner Field,2016-2026,251,209,13.88,13.40,103,102
+MOUN,Mount Union,D3,Rafeld-Rogers Field,2016-2026,141,146,12.93,12.42,104,102
+MUHL,Muhlenberg,D3,Bicentennial Park,2016-2026,127,160,14.08,13.49,104,102
+NEOR,New Orleans,D1,Maestri Field,2016-2026,296,256,12.91,12.57,102,102
+OKST,Oklahoma St.,D1,O'Brate Stadium,2016-2026,301,209,12.69,12.35,102,102
+PEST,Penn St.,D1,Medlar Field at Lubrano Park,2016-2026,217,215,12.46,11.97,104,102
+PESA,Penn St.-Abington,D3,Alverthorpe Park,2016-2026,127,152,16.10,15.39,104,102
+PFEI,Pfeiffer,D3,Joe Ferebee Field,2016-2026,187,174,14.93,14.37,103,102
+PUFW,Purdue Fort Wayne,D1,Mastodon Field,2016-2025,175,290,13.60,13.20,102,102
+SAHE,Sacred Heart,D1,Veterans Park,2016-2026,193,306,12.90,12.47,103,102
+SALS,Salem St.,D3,Salem St. Baseball Field,2016-2026,147,129,11.01,10.51,104,102
+SEWA,Sewanee,D3,Montgomery Field,2016-2026,174,118,12.84,12.41,103,102
+SOIN,Southern Ind.,D1,USI Baseball Field,2016-2026,227,253,13.30,12.83,103,102
+SOME,Southern Me.,D3,Ed Flaherty Field,2016-2026,164,146,12.96,12.49,103,102
+SOBA,Southwest Baptist,D2,,2016-2026,245,191,14.97,14.36,104,102
+SOUO,Southwestern Okla.,D2,Bulldog Baseball Field,2016-2026,192,186,14.27,13.87,102,102
+STTA,St. Thomas Aquinas,D2,Clover Stadium,2016-2026,142,181,12.44,12.06,103,102
+TCUX,TCU,D1,Lupton Stadium,2016-2026,290,224,11.93,11.59,102,102
+UABX,UAB,D1,Young Memorial Field,2016-2026,296,244,11.65,11.27,103,102
+USCI,USciences,,Richie Ashburn Field,2016-2022,112,100,13.23,12.62,104,102
+UNTN,Union (TN),D2,Fesmire Field,2016-2026,207,187,13.27,12.88,103,102
+URSI,Ursinus,D3,Thomas Field,2016-2026,131,136,13.88,13.45,103,102
+WASH,WashU,D3,Kelly Field at Irv Utz Stadium,2016-2026,204,132,12.19,11.62,104,102
+WAST,Washington St.,D1,Bailey-Brayton Field,2016-2026,233,268,12.33,11.94,103,102
+WLLM,Williams,D3,Bobby Coombs Field,2016-2026,89,104,13.37,12.88,103,102
+WOOS,Wooster,D3,Art Murray Field,2016-2026,154,144,14.72,14.12,104,102
+WOST,Worcester St.,D3,Rockwood Park,2016-2026,124,135,11.44,11.02,103,102
+XAVI,Xavier,D1,Hayden Field,2016-2026,203,330,12.26,11.85,103,102
+ABCH,Abilene Christian,D1,Crutcher Scott Field,2016-2026,297,230,12.99,12.76,101,101
+ARKA,Arkansas,D1,Baum-Walker Stadium,2016-2026,361,202,12.08,11.80,102,101
+ARWP,Army West Point,D1,Johnson Stadium at Doubleday Field,2016-2026,208,254,11.74,11.43,102,101
+ASSU,Assumption,D2,H.L. Rocheleau '24 Field,2016-2026,151,198,12.52,12.25,102,101
+BERE,Berea,D3,Berea Sports Complex,2016-2026,158,119,15.18,14.82,102,101
+BRVA,Bridgewater (VA),D3,Jopson Baseball Field,2016-2026,183,155,14.09,13.80,102,101
+CALV,Calvin,D3,Calvin Baseball Field,2016-2026,133,149,12.71,12.50,101,101
+CARL,Carleton,D3,Mel Taube Field,2016-2026,110,128,11.83,11.62,101,101
+CLMA,Clark (MA),D3,Granger Field,2016-2026,160,121,13.62,13.21,103,101
+CLAT,Clark Atlanta,D2,Home Plate Field,2016-2026,174,142,15.70,15.33,102,101
+COEX,Coe,D3,Bill Quinby Field,2016-2026,142,161,12.16,11.98,101,101
+COMH,Concordia-M'head,D3,Bucky Burgau Field,2016-2026,111,110,11.06,10.81,102,101
+DEST,Delaware St.,D1,Bob Reed Field,2016-2026,202,247,13.89,13.57,102,101
+DONY,Dominican (NY),D2,Clover Stadium,2016-2026,164,222,13.92,13.63,102,101
+EACA,East Carolina,D1,Clark-LeClair,2016-2026,331,256,11.16,11.01,101,101
+EAIL,Eastern Ill.,D1,Coaches Stadium,2016-2026,200,326,13.97,13.60,102,101
+EAKY,Eastern Ky.,D1,Turkey Hughes Field at Earle Combs Stadium,2016-2026,275,267,13.74,13.40,102,101
+EMRF,Embry-Riddle (FL),D2,Sliwa Stadium,2016-2026,194,179,13.22,13.04,101,101
+EMGA,Emmanuel (GA),D2,Tommy Carey Baseball Field,2016-2026,195,213,13.68,13.42,101,101
+EMOR,Emory,D3,Chappell Park,2016-2026,175,142,13.59,13.32,102,101
+EMST,Emporia St.,D2,Turnbull Baseball Field/Trusler Sports Complex,2016-2026,217,218,13.74,13.56,101,101
+FIND,Findlay,D2,5/3 Field,2016-2026,149,176,12.39,12.22,101,101
+GEFO,George Fox,D3,Morse Field,2016-2026,178,147,12.04,11.82,101,101
+GONZ,Gonzaga,D1,Patterson Baseball Complex and Coach Steve Hertz Field,2016-2026,196,291,11.31,11.14,101,101
+HANO,Hanover,D3,KT Young Park,2016-2026,132,171,13.42,13.20,101,101
+HILL,Hillsdale,D2,Lenda and Glenda Hill Stadium,2016-2026,166,221,13.84,13.56,102,101
+HOFA,Holy Family,D2,,2024-2026,60,54,13.13,12.57,104,101
+JOHO,Johns Hopkins,D3,Stromberg Stadium,2016-2026,215,119,13.84,13.60,101,101
+KISP,King's (PA),D3,Lipo Field,2016-2026,136,131,13.85,13.61,101,101
+LMCA,LMU (CA),D1,Page Stadium,2016-2026,262,272,11.53,11.39,101,101
+LIRO,Little Rock,D1,Gary Hogan Field,2016-2026,279,255,12.04,11.83,101,101
+MRST,Marist,D1,McCann Field,2016-2026,168,283,12.96,12.62,102,101
+MALU,Martin Luther,D3,MLC Baseball Field,2016-2026,104,111,15.08,14.83,101,101
+MEDA,Medaille,D3,Medaille Sports Complex at Buffalo Color Park,2016-2023,78,72,14.22,13.89,102,101
+MLLS,Millsaps,D3,Twenty Field,2016-2026,189,150,13.47,13.17,102,101
+MICO,Mississippi Col.,D2,Frierson Field,2017-2026,168,168,13.13,12.85,102,101
+MITC,Mitchell,D3,Alumni Field,2016-2026,179,134,13.55,13.20,102,101
+MOLL,Molloy,D2,Mitchel Field,2016-2026,204,191,12.78,12.54,101,101
+NEEC,New England Col.,D3,Laurie Cox Memorial Field,2016-2026,109,171,13.25,13.01,101,101
+NOCM,North Central (MN),D3,Gleason FIeld,2016-2026,103,127,14.95,14.64,102,101
+NORN,Northwestern,D1,Rocky Miller Park,2016-2026,197,265,12.69,12.41,102,101
+NOOD,Northwood,D2,Gerace Stadium,2016-2026,161,219,12.99,12.78,101,101
+OHNO,Ohio Northern,D3,Wander Field,2016-2026,137,146,12.07,11.80,102,101
+OHST,Ohio St.,D1,Nick Swisher Field at Bill Davis Stadium,2016-2026,234,214,12.80,12.53,102,101
+OHWE,Ohio Wesleyan,D3,Littick Field,2016-2026,143,162,14.42,14.15,101,101
+OKCH,Okla. Christian,D2,Dobson Field,2016-2026,213,209,14.48,14.22,101,101
+OLWE,Old Westbury,D3,Jackie Robinson Athletic Complex,2016-2026,146,128,13.05,12.86,101,101
+OSST,Oswego St.,D3,Laker Baseball Field,2016-2026,122,156,13.80,13.54,101,101
+SUCA,SUNY Canton,D3,,2016-2026,104,112,14.41,14.02,102,101
+SAIN,Saint Joseph's,D1,Smithson Field,2016-2026,210,238,13.01,12.74,102,101
+SHEP,Shepherd,D2,Fairfax Field,2016-2026,200,194,12.71,12.52,101,101
+SOCA,South Carolina,D1,Founders Park,2016-2026,347,208,11.12,10.98,101,101
+SOAR,Southern Ark.,D2,Walker Stadium at Goodheart Field,2016-2026,211,217,12.83,12.54,102,101
+STXX,St. Joseph's (Brkln),D3,American Legion Fields,2016-2026,127,182,13.86,13.58,101,101
+STOC,Stockton,D3,Stockton Baseball Field,2016-2026,144,126,13.26,13.06,101,101
+TEAM,Tex. A&M Int'l,D2,Jorge Haynes Field,2016-2026,204,190,13.21,12.95,101,101
+THME,Thomas (ME),D3,H. Allen Ryan Field,2016-2026,113,121,12.23,11.98,102,101
+TRAN,Transylvania,D3,Whitaker Bank Ballpark,2016-2026,197,161,13.49,13.10,102,101
+TRIN,Trine,D3,Jannen Field,2016-2026,132,154,12.57,12.29,102,101
+TROY,Troy,D1,Riddle-Pace Field,2016-2026,293,261,12.44,12.21,101,101
+UIND,UIndy,D2,Greyhound Park,2016-2026,243,218,13.85,13.60,101,101
+UNPE,UNC Pembroke,D2,Sammy Cox Field,2016-2026,226,203,14.94,14.63,102,101
+WABA,Wabash,D3,Goodrich Ballpark,2016-2026,145,140,13.19,12.91,102,101
+WAJE,Wash. & Jeff.,D3,Ross Memorial Park,2016-2026,211,155,12.31,12.08,101,101
+WELL,Wells,D3,Wells College Turf Field,2017-2024,127,80,13.81,13.43,102,101
+WEGA,West Ga.,D1,Cole Field,2016-2026,219,219,13.21,12.91,102,101
+WILL,Willamette,D3,John Lewis Field,2016-2026,153,166,13.37,13.14,101,101
+WINT,Winthrop,D1,The Winthrop Ballpark,2016-2026,291,236,12.68,12.44,101,101
+ALAB,Alabama,D1,Sewell-Thomas Stadium,2016-2026,325,223,11.24,11.23,100,100
+ALVE,Alvernia,D3,Angelica Park,2016-2026,150,172,12.28,12.23,100,100
+BECO,Bethune-Cookman,D1,Jackie Robinson Ballpark,2016-2026,266,230,12.15,12.07,100,100
+BIOL,Biola,D2,Eagles Diamond,2018-2026,163,159,13.01,12.88,100,100
+CHST,Chicago St.,D1,Chicago State Baseball Stadium,2016-2019,91,105,11.69,11.60,100,100
+CHBR,Christian Brothers,D2,Nadicksbernd Field,2016-2026,209,188,13.16,13.00,101,100
+COGU,Coast Guard,D3,Nitchman Field,2016-2026,131,121,12.96,12.79,101,100
+EDWA,Edward Waters,D2,James P. Small Park,2022-2026,93,80,15.01,15.06,99,100
+FLOR,Florida,D1,Condron Family Ballpark at Alfred A. McKethan Field,2016-2026,371,228,11.59,11.54,100,100
+FOHS,Fort Hays St.,D2,Larks Park,2016-2026,224,188,14.70,14.58,100,100
+HAMI,Hamilton,D3,Loop Road Complex,2016-2026,107,90,12.86,12.87,99,100
+HAML,Hamline,D3,CHS Field,2016-2026,118,131,10.78,10.81,99,100
+HEND,Hendrix,D3,Warrior Field,2016-2026,208,145,12.60,12.52,100,100
+HILB,Hilbert,D3,FSSJ Complex,2016-2026,75,125,13.63,13.54,100,100
+IMMA,Immaculata,D3,Immaculata Baseball Stadium,2016-2026,144,146,13.85,13.77,100,100
+KALA,Kalamazoo,D3,Woodworth Field,2016-2026,136,169,12.96,12.86,100,100
+KEUK,Keuka,D3,Kuhl Field,2016-2026,109,120,13.52,13.44,100,100
+LAGR,LaGrange,D3,Williamson Stadium at Cleaveland Field,2016-2026,212,151,13.65,13.68,99,100
+LEWI,Lewis,D2,Brennan Field,2016-2026,171,213,13.19,13.13,100,100
+LIBE,Liberty,D1,Worthington Field at Liberty Baseball Stadium,2016-2026,299,257,11.74,11.71,100,100
+LUTH,Luther,D3,Luther Stadium,2016-2026,142,149,12.01,11.85,101,100
+MESS,Messiah,D3,Starry Baseball Field,2016-2026,175,187,12.78,12.67,100,100
+MUST,Murray St.,D1,Reagan Field,2016-2026,259,267,13.95,13.93,100,100
+NOGE,North Georgia,D2,Bob Stein Stadium,2016-2026,248,191,12.79,12.75,100,100
+NOPA,North Park,D3,Holmgren Athletic Complex,2016-2026,130,165,13.99,13.84,101,100
+NOSP,Northwestern-St. Paul,D3,Reynolds Field,2016-2026,164,136,12.58,12.55,100,100
+OKBA,Okla. Baptist,D2,Bison Field at Ford Park,2016-2026,195,207,14.67,14.65,100,100
+OMAH,Omaha,D1,Tal Anderson Field,2016-2026,213,261,11.77,11.76,100,100
+PLST,Plattsburgh St.,D3,Chip Cummings Field,2016-2026,110,139,13.00,13.05,99,100
+PORT,Portland,D1,Joe Etzel Field,2016-2026,241,271,10.92,10.89,100,100
+PURD,Purdue,D1,Alexander Field,2016-2026,223,214,12.21,12.21,99,100
+QNNP,Quinnipiac,D1,Quinnipiac Baseball Field,2016-2026,180,304,13.28,13.22,100,100
+RIVI,Rivier,D3,Harvey Woods Field,2016-2026,99,120,12.90,12.91,99,100
+SFAX,SFA,D1,Pilgrim's Park,2016-2026,246,276,12.72,12.71,100,100
+SUMA,SUNY Maritime,D3,Reinhart Baseball Field,2016-2026,148,139,13.18,13.12,100,100
+SMIC,Saint Michael's,D2,Doc Jacobs Field,2016-2026,129,162,13.43,13.46,99,100
+SADI,San Diego,D1,Fowler Park,2016-2026,279,242,12.32,12.26,100,100
+SOFL,South Fla.,D1,USF Baseball Stadium,2016-2026,320,230,11.12,11.05,100,100
+SOMS,Southeast Mo. St.,D1,Capaha Park,2016-2026,271,272,12.58,12.43,101,100
+SOLA,Southeastern La.,D1,Pat Kenelly Diamond at Alumni Field,2016-2026,283,261,11.80,11.72,100,100
+TENN,Tennessee,D1,Lindsey Nelson Stadium,2016-2026,367,201,11.73,11.65,100,100
+TEXA,Texas,D1,UFCU Disch-Falk Field,2016-2026,341,220,11.04,10.95,100,100
+UALB,UAlbany,D1,Varsity field,2016-2026,183,284,12.38,12.36,100,100
+UTPB,UT Permian Basin,D2,Roden Field,2016-2026,215,205,14.78,14.74,100,100
+UPIO,Upper Iowa,D2,Robertson Woods Field,2016-2026,146,220,12.90,12.93,99,100
+VAFO,Valley Forge,D3,UVF Ballpark,2016-2026,133,101,17.56,17.33,101,100
+VASS,Vassar,D3,Prentiss Baseball Field,2016-2026,133,126,13.08,12.92,101,100
+WEVS,West Virginia St.,D2,Cal Bailey Field,2016-2026,203,188,10.93,10.94,99,100
+WEMI,Western Mich.,D1,Robert J. Bobb Stadium at Hyames Field,2016-2026,166,284,13.02,12.93,100,100
+WHMA,Wheaton (MA),D3,James V. Sidell Stadium,2016-2026,140,146,12.09,11.97,101,100
+WHEE,Wheeling,D2,JB Chambers I-470 Complex,2016-2026,139,209,11.81,11.68,101,100
+WIPA,Wis.-Parkside,D2,Historic Simmons Field,2016-2026,159,209,13.69,13.67,100,100
+WISU,Wis.-Superior,D3,NBC Spartan Sports Complex,2016-2026,96,133,14.15,14.03,100,100
+ACAR,Academy of Art,D2,Laney College,2016-2023,155,138,10.77,10.82,99,99
+ALBR,Albright,D3,Kelchner Field,2016-2026,147,135,13.16,13.31,98,99
+LMXX,Alma,D3,Klenk Park,2016-2026,127,197,12.98,13.18,98,99
+ARFS,Ark.-Fort Smith,D2,Crowder Field,2016-2026,189,212,13.02,13.08,99,99
+BEWV,Bethany (WV),D3,Bethany Park,2016-2026,162,125,12.43,12.67,98,99
+BING,Binghamton,D1,Bearcats Baseball Complex,2016-2026,202,270,11.33,11.43,99,99
+BISO,Birmingham-So.,D3,Striplin Field,2016-2024,199,123,12.27,12.51,98,99
+BLOO,Bloomfield,,,2016-2025,128,177,13.27,13.52,98,99
+CASF,Cal St. Fullerton,D1,Goodwin Field,2016-2026,289,267,10.36,10.39,99,99
+CALT,Caltech,D3,North Field,2016-2026,171,108,13.04,13.31,97,99
+CAPI,Capital,D3,Clowson Field,2016-2026,135,141,13.76,14.01,98,99
+CLAR,Clarion,D2,,2016-2026,163,198,11.54,11.62,99,99
+CLRK,Clarkson,D3,Jack Phillips Stadium at Snell Field,2016-2026,111,132,12.52,12.64,99,99
+COCH,Col. of Charleston,D1,Patriots Point,2016-2026,326,219,11.34,11.44,99,99
+DAEL,Davis & Elkins,D2,Harpertown Field,2016-2026,160,211,12.34,12.53,98,99
+DEPA,DePauw,D3,Walker Field,2016-2026,120,154,13.97,14.08,99,99
+DOIL,Dominican (IL),D3,Schaumburg Baseball Stadium,2016-2026,144,138,12.73,12.95,98,99
+EARL,Earlham,D3,Randal R. Sadler Stadium,2016-2026,213,140,13.52,13.74,98,99
+STRN,Eastern,D3,The Yard,2016-2026,139,162,13.50,13.60,99,99
+ECKE,Eckerd,D2,,2016-2026,207,161,13.39,13.55,98,99
+ELMH,Elmhurst,D3,Butterfield Park,2016-2026,121,135,14.08,14.27,98,99
+ELMI,Elmira,D3,Holding Point Recreation Center,2016-2026,140,162,14.60,14.83,98,99
+FGCU,FGCU,D1,Swanson Stadium,2016-2026,286,259,12.43,12.53,99,99
+FIST,Fitchburg St.,D3,Riccards Field,2016-2026,122,130,12.93,13.06,98,99
+FRAM,Franklin & Marshall,D3,Caplan Field,2016-2026,130,160,13.13,13.33,98,99
+GORD,Gordon,D3,J. Tec White Field,2016-2026,130,125,12.39,12.50,99,99
+GRCA,Grand Canyon,D1,Brazell Field at GCU Ballpark,2016-2026,283,257,11.93,12.11,98,99
+GREE,Greensboro,D3,Ted Leonard Park,2016-2026,183,169,14.59,14.83,98,99
+GRNV,Greenville,D3,Robert E. Smith Field,2016-2026,170,152,13.28,13.39,99,99
+ILWE,Ill. Wesleyan,D3,Horenberger Field,2016-2026,134,178,13.43,13.49,99,99
+KENY,Kenyon,D3,McCloskey Field,2016-2026,95,98,12.80,13.01,98,99
+KYWE,Ky. Wesleyan,D2,Panther Park,2016-2026,195,198,12.10,12.21,99,99
+LASE,Lasell,D3,,2016-2026,118,144,11.96,12.10,98,99
+LIME,Limestone,,Founders FCU Stadium,2016-2025,202,157,13.36,13.54,98,99
+LYNC,Lynchburg,D3,Fox Field,2016-2026,219,177,13.14,13.25,99,99
+MACM,MacMurray,D3,Don Timm Field,2016-2020,69,71,11.29,11.56,97,99
+MILW,Milwaukee,D1,Franklin Field,2016-2026,203,323,12.00,12.06,99,99
+NCST,NC State,D1,Doak Field at Dail Park,2016-2026,317,225,12.60,12.69,99,99
+NIUX,NIU,D1,Ralph McKinzie Field at Walt &amp; Janice Owens Park,2016-2026,198,311,12.81,12.95,98,99
+NIAG,Niagara,D1,,2016-2026,161,298,12.84,13.01,98,99
+NICH,Nicholls,D1,Ben Meyer Diamond at Ray E. Didier Field,2016-2026,295,231,11.04,11.16,98,99
+NOAL,North Ala.,D1,Mike Lane Field,2016-2026,217,268,12.18,12.28,99,99
+NOGR,North Greenville,D2,Ray &amp; Bea Dillard Field,2016-2026,242,210,12.93,13.12,98,99
+OBER,Oberlin,D3,Dill Field,2016-2026,129,143,13.84,14.03,98,99
+OHVA,Ohio Valley,D2,,2016-2021,98,88,12.59,12.84,98,99
+PENN,Penn,D1,Meiklejohn Stadium,2016-2026,184,204,12.00,12.04,99,99
+PIED,Piedmont,D3,Loudermilk Field,2016-2026,183,167,12.89,12.93,99,99
+PIJO,Pitt.-Johnstown,D2,Points Stadium,2016-2026,186,208,11.90,11.95,99,99
+RITX,RIT,D3,RIT Baseball Complex,2016-2026,124,142,12.43,12.51,99,99
+RAMA,Ramapo,D3,Jeff Maund Memorial Field,2016-2026,128,155,12.37,12.44,99,99
+RIDE,Rider,D1,Sonny Pittaro Field,2016-2026,181,291,12.04,12.24,98,99
+SAVA,Saginaw Valley,D2,SVSU Baseball Complex,2016-2026,163,209,13.40,13.59,98,99
+SAIM,Saint Mary's (CA),D1,Louis Guisto Field,2016-2026,269,261,10.87,10.90,99,99
+SKID,Skidmore,D3,Ferrari Field,2016-2026,120,127,12.82,12.94,99,99
+SONH,Southern N.H.,D2,Penmen Field,2016-2026,180,210,12.07,12.12,99,99
+STES,St. Edward's,D2,Lucian-Hamilton Field,2016-2026,236,204,12.80,12.96,98,99
+SUSQ,Susquehanna,D3,Harold Bolinger Field,2016-2026,134,159,13.13,13.28,98,99
+TCNJ,TCNJ,D3,George Ackerman Park,2016-2026,137,155,13.12,13.20,99,99
+TAMP,Tampa,D2,UT Baseball Field,2016-2026,231,208,12.78,13.00,98,99
+TETE,Tennessee Tech,D1,Bush Stadium at Averitt Baseball Complex,2016-2026,282,260,14.33,14.43,99,99
+TESO,Texas Southern,D1,MacGregor Park,2016-2026,192,266,15.01,15.09,99,99
+TIFF,Tiffin,D2,Heminger Field,2016-2026,163,197,12.96,13.07,99,99
+TRTX,Trinity (TX),D3,Trinity Baseball,2016-2026,223,142,13.50,13.70,98,99
+UCDA,UC Davis,D1,Dobbins Baseball Complex,2016-2026,278,251,10.67,10.79,98,99
+UMDA,UMass Dartmouth,D3,UMD Baseball Field,2016-2026,127,145,12.89,13.16,97,99
+VAND,Vanderbilt,D1,Hawkins Field,2016-2026,341,208,11.23,11.42,98,99
+WACO,Washington Col.,D3,Athey Park,2016-2026,153,134,14.69,14.84,98,99
+WECT,Wesleyan (CT),D3,Dresser Diamond at Andrus Field,2016-2026,99,118,12.46,12.67,98,99
+WECH,West Chester,D2,Serpico Stadium,2016-2026,175,160,12.45,12.62,98,99
+WEVW,West Va. Wesleyan,D2,Hank Ellis Field,2016-2026,166,176,11.69,11.86,98,99
+WEIL,Western Ill.,D1,Alfred D. Boyer Stadium,2016-2026,175,298,12.27,12.37,99,99
+WEMO,Westminster (MO),D3,Saucier Field,2016-2026,146,163,14.01,14.27,98,99
+WEPA,Westminster (PA),D3,Westminster Field,2016-2026,146,138,11.62,11.77,98,99
+WIEC,Wis.-Eau Claire,D3,Carson Park,2021-2026,95,92,14.16,14.29,99,99
+WIOS,Wis.-Oshkosh,D3,Tiedemann Field at Alumni Stadium,2016-2026,127,171,12.51,12.68,98,99
+WOFF,Wofford,D1,Russell C. King Field,2016-2026,308,243,13.22,13.32,99,99
+YESH,Yeshiva,D3,,2016-2026,117,125,18.07,18.19,99,99
+ALST,Alabama St.,D1,Wheeler-Watkins Baseball Complex,2016-2026,254,226,13.67,13.93,98,98
+ALBI,Albion,D3,Champions Stadium at Frank Joranko Field,2016-2026,136,175,12.64,12.95,97,98
+AMIL,American Int'l,D2,Richard F. Bedard Field,2016-2026,153,209,12.83,13.18,97,98
+ARMO,Ark.-Monticello,D2,Weevils Field,2016-2026,200,221,13.16,13.59,96,98
+AURO,Aurora,D3,Jim Schmid Field,2016-2026,151,146,13.30,13.64,97,98
+AUST,Austin,D3,Baker Field,2016-2026,164,129,14.24,14.56,97,98
+BARD,Bard,D3,Honey Field,2016-2026,154,127,13.16,13.69,96,98
+BELL,Bellarmine,D1,Knights Field,2016-2026,219,279,13.45,13.68,98,98
+BENT,Bentley,D2,DeFelice Field,2016-2026,144,162,12.79,13.12,97,98
+BELU,Bethany Lutheran,D3,Franklin Rogers Park,2016-2026,148,110,13.95,14.57,95,98
+BREV,Brevard,D3,Gil Coan Field,2016-2026,188,151,13.96,14.25,97,98
+CUIX,CUI,D2,Golden Eagles Field,2016-2026,215,200,10.88,11.19,97,98
+CASE,Cal St. East Bay,D2,,2016-2026,202,179,11.88,12.15,97,98
+CASM,Cal St. Monterey Bay,D2,Otter Sports Complex,2016-2026,196,211,12.62,12.94,97,98
+CALD,Caldwell,D2,Kiwanis Oval,2016-2026,161,180,13.19,13.51,97,98
+CATA,Catawba,D2,Newman Park,2016-2026,241,213,12.76,13.13,97,98
+CEAR,Central Ark.,D1,Bear Stadium,2016-2026,275,257,11.31,11.60,97,98
+CECS,Central Conn. St.,D1,CCSU Baseball Field,2016-2026,200,228,11.96,12.18,98,98
+CHAR,Charlotte,D1,Robert and Mariam Hayes Stadium,2016-2026,323,227,11.91,12.28,97,98
+CLEM,Clemson,D1,Doug Kingsmore Stadium,2016-2026,340,220,11.72,12.00,97,98
+CONY,Concordia (NY),D2,Clipper Baseball Field,2016-2019,59,69,12.31,13.03,94,98
+CCHI,Concordia Chicago,D3,Cougar Field,2016-2026,138,163,14.46,14.96,96,98
+CURR,Curry,D3,Jack Vallely Diamond,2016-2026,136,122,11.68,12.06,96,98
+DALL,Dallas,D3,Crusaders Field,2016-2026,167,146,13.15,13.58,96,98
+DART,Dartmouth,D1,Red Rolfe Field at Biondi Park,2016-2026,134,189,11.71,12.01,97,98
+DUKE,Duke,D1,Jack Coombs Field,2016-2026,334,214,11.83,12.14,97,98
+ETSU,ETSU,D1,Thomas Stadium,2016-2026,300,226,13.07,13.34,97,98
+EANA,Eastern Nazarene,D3,Libby Field,2016-2024,92,98,11.39,11.95,95,98
+ELON,Elon,D1,Latham Park,2016-2026,308,222,11.84,12.14,97,98
+GASO,Ga. Southern,D1,J.I. Clements Stadium,2016-2026,303,256,12.09,12.39,97,98
+GANN,Gannon,D2,McConnell Family Stadium,2016-2026,152,196,11.09,11.33,97,98
+GEWA,George Washington,D1,Tucker Field at Barcroft Park,2016-2026,291,241,12.08,12.32,98,98
+GETT,Gettysburg,D3,Kirchhoff Field,2016-2026,139,125,14.63,15.12,96,98
+HOFS,Hofstra,D1,University Field,2016-2026,197,276,12.39,12.70,97,98
+JWPR,JWU (Providence),D3,Scotts Miracle Gro Athletic Baseball Complex,2016-2026,165,161,13.01,13.38,97,98
+JOJA,John Jay,D3,,2016-2026,103,182,14.01,14.47,96,98
+KNTC,Kentucky,D1,Kentucky Proud Park,2016-2026,326,230,11.82,12.14,97,98
+LAWR,Lawrence,D3,Whiting Field,2016-2026,105,122,14.85,15.22,97,98
+LEEX,Lee,D2,Olympic Field,2016-2026,225,194,12.21,12.55,97,98
+LERH,Lenoir-Rhyne,D2,Durham Field,2016-2026,226,208,13.50,13.86,97,98
+MCLA,MCLA,D3,Zavattaro Athletics Complex,2016-2026,90,118,12.71,13.13,96,98
+MITX,MIT,D3,Fran O'Brien Field,2016-2026,109,188,14.01,14.56,96,98
+MABA,Maranatha Baptist,D3,Washington Park,2016-2026,91,91,13.90,14.57,95,98
+MATN,Maryville (TN),D3,Scotland Yard,2016-2026,196,145,12.19,12.61,96,98
+MRYW,Marywood,D3,Pacers Field,2016-2026,138,127,13.37,13.86,96,98
+MCDA,McDaniel,D3,Preston Field,2016-2026,146,124,14.07,14.55,96,98
+MCNE,McNeese,D1,Joe Miller Ballpark,2016-2026,313,244,11.49,11.69,98,98
+MRCY,Mercy,D2,Mercy Field,2016-2026,201,180,12.04,12.33,97,98
+MIOH,Miami (OH),D1,McKie Field at Hayden Park,2016-2026,225,302,12.24,12.53,97,98
+MINO,Minot St.,D2,Corbett Field,2016-2026,145,186,12.84,13.33,96,98
+MIWE,Missouri Western,D2,Spring Sports Complex,2016-2026,198,196,13.29,13.66,97,98
+MOSL,Mo.-St. Louis,D2,UMSL Baseball Field,2016-2026,207,194,13.14,13.40,97,98
+MONM,Monmouth,D1,MU Baseball Field,2016-2026,195,254,11.88,12.23,97,98
+MTSM,Mt. St. Mary (NY),D3,MSMC Baseball/Softball Complex,2016-2026,127,159,12.56,13.01,96,98
+NAVY,Navy,D1,Max Bishop Stadium,2016-2026,270,200,10.79,11.04,97,98
+NSTX,Northern St.,D2,,2016-2026,129,132,11.76,12.17,96,98
+NOTR,Notre Dame,D1,Frank Eck Stadium,2016-2026,239,225,11.54,11.85,97,98
+OLDO,Old Dominion,D1,Ellmer Family Baseball Complex,2016-2026,304,234,12.35,12.66,97,98
+PACE,Pace,D2,Peter X. Finnerty Field,2016-2026,225,168,10.28,10.65,96,98
+PABA,Palm Beach Atl.,D2,"J.M. ""Jake"" Rubin Park",2016-2026,220,165,11.98,12.28,97,98
+PRIN,Princeton,D1,Clarke Field,2016-2026,123,240,11.83,12.10,97,98
+PUSO,Puget Sound,D3,Logger Baseball Field,2016-2026,151,172,12.28,12.67,96,98
+RHOD,Rhodes,D3,Stauffer Field,2016-2026,193,135,12.62,13.04,96,98
+ROAN,Roanoke,D3,Carilion Clinic Field at Salem Memorial Ballpark,2016-2026,192,168,12.98,13.30,97,98
+RUSA,Russell Sage,D3,Plumeri Sports Complex,2022-2026,70,77,14.33,15.05,95,98
+RUCA,Rutgers-Camden,D3,Campbell's Field,2016-2026,166,140,12.78,13.09,97,98
+RUNE,Rutgers-Newark,D3,Weequahic Park,2016-2026,145,132,13.99,14.31,97,98
+SALO,Saint Louis,D1,Billiken Sports Center,2016-2026,252,222,11.96,12.28,97,98
+SARO,Saint Rose,D2,Bob Bellizzi Field,2016-2024,116,125,12.17,12.51,97,98
+SALI,Salisbury,D3,Donnie Williams Sea Gull Baseball Stadium,2016-2026,230,152,13.76,14.14,97,98
+SAHO,Sam Houston,D1,Don Sanders,2016-2026,285,250,11.89,12.18,97,98
+SCHR,Schreiner,D3,Bob Henry Field,2016-2026,160,161,13.59,13.95,97,98
+SOAL,South Alabama,D1,Stanky Field,2016-2026,291,238,11.73,12.01,97,98
+SOIL,Southern Ill.,D1,Itchy Jones Stadium,2016-2026,300,244,12.04,12.32,97,98
+STNF,Stanford,D1,Sunken Diamond,2016-2026,307,243,11.44,11.68,97,98
+STEV,Stevens,D3,Dobbelaar Field,2016-2026,176,183,12.01,12.40,96,98
+STVN,Stevenson,D3,Sugar Field,2016-2026,163,161,13.15,13.41,98,98
+SWAR,Swarthmore,D3,Clothier Field Baseball Stadium,2016-2026,150,110,13.85,14.36,96,98
+TAXX,Texas A&M,D1,Blue Bell Park,2016-2026,352,202,11.77,12.04,97,98
+TELU,Texas Lutheran,D3,Katt-Isbel Field,2016-2026,171,170,12.94,13.28,97,98
+TRST,Truman St.,D2,Bulldog Baseball Park,2016-2026,209,210,12.68,12.99,97,98
+TULA,Tulane,D1,Greer Field at Turchin Stadium,2016-2026,320,231,12.20,12.52,97,98
+TUSK,Tuskegee,D2,Washington Field,2016-2026,170,159,14.88,15.19,97,98
+UCFX,UCF,D1,John Euliano Park,2016-2026,317,238,11.08,11.41,97,98
+UCON,UConn,D1,Elliot Ballpark,2016-2026,220,287,11.51,11.79,97,98
+UMSV,UMSV,D3,,2016-2026,105,176,13.69,14.10,97,98
+UMBO,UMass Boston,D3,Monan Park,2016-2026,176,152,12.85,13.17,97,98
+UNGR,UNC Greensboro,D1,UNCG Baseball Stadium,2016-2026,287,247,12.81,13.20,97,98
+USAI,USC Aiken,D2,Roberto Hernandez Stadium,2016-2026,231,198,12.46,12.87,96,98
+VAWE,Va. Wesleyan,D3,Kenneth R. Perry Field,2019-2026,132,109,13.71,14.06,97,98
+WAFO,Wake Forest,D1,David F. Couch Ballpark,2016-2026,312,241,12.99,13.32,97,98
+WALS,Walsh,D2,Biery Stadium,2016-2026,159,229,12.44,12.86,96,98
+WEVI,West Virginia,D1,Wagener Field at Kendrick Family Ballpark,2016-2026,252,277,11.46,11.76,97,98
+WHIL,Wheaton (IL),D3,Lee Pfund Stadium,2016-2026,161,141,12.98,13.33,97,98
+WILK,Wilkes,D3,Bruggeworth Field,2016-2026,143,133,12.34,12.64,97,98
+WIOH,Wilmington (OH),D3,Tewksbury-Delaney Field,2016-2026,151,170,13.80,14.25,96,98
+WILC,Wis.-La Crosse,D3,Copeland Park,2016-2026,170,172,13.21,13.66,96,98
+NWST,Northwestern St.,D1,Brown-Stroud Field,2016-2026,278,248,10.85,11.31,95,97
+ARTE,Arkansas Tech,D2,Baswell Field,2016-2026,224,202,12.28,12.72,96,97
+AUSD,Augustana (SD),D2,Ronken Field,2016-2026,202,237,12.16,12.66,96,97
+BABS,Babson,D3,Govoni Field,2016-2026,160,145,11.79,12.42,94,97
+BAYL,Baylor,D1,Baylor Ballpark,2016-2026,312,189,11.75,12.30,95,97
+BEST,Bemidji St.,D2,BSU Baseball Field,2016-2026,152,190,13.72,14.25,96,97
+BOWD,Bowdoin,D3,Pickard Baseball Diamond,2016-2026,103,98,11.50,12.27,93,97
+CALI,California,D1,Evans Diamond at Stu Gordon Stadium,2016-2026,273,246,11.29,11.78,95,97
+CEMI,Central Mich.,D1,Theunissen Stadium,2016-2026,204,314,11.98,12.55,95,97
+CENT,Centre,D3,Gary Wright Field,2016-2026,209,136,11.48,11.99,95,97
+CHIC,Chico St.,D2,Nettleton Stadium,2016-2026,200,176,11.51,12.02,95,97
+COKE,Coker,D2,Tom J. New Field,2016-2026,182,202,13.04,13.54,96,97
+DAVE,Davenport,D2,Farmers Insurance Complex,2018-2026,132,201,13.90,14.47,96,97
+DRUR,Drury,D2,Mark Worley Field at Meador Park,2016-2026,252,214,12.88,13.39,96,97
+EAMI,Eastern Mich.,D1,Oestrike Stadium,2016-2026,194,301,12.64,13.14,96,97
+EVAN,Evansville,D1,Charles H. Braun Stadium,2016-2026,246,289,11.78,12.26,96,97
+FDFL,FDU-Florham,D3,Naimoli Ballpark,2016-2026,176,132,13.49,14.11,95,97
+FLAM,Florida A&M,D1,Moore-Kittles Field,2016-2026,261,239,12.82,13.22,96,97
+FLTE,Florida Tech,D2,Andy Seminick-Les Hall Field,2016-2026,199,195,12.05,12.49,96,97
+GECO,Georgia College,D2,John Kurtz Field,2016-2026,213,188,13.26,13.78,96,97
+HAWA,Hawaii,D1,Les Murakami Stadium,2016-2026,311,194,10.13,10.57,95,97
+HEID,Heidelberg,D3,Peaceful Valley,2016-2026,153,142,12.70,13.32,95,97
+HIPO,High Point,D1,Williard Stadium,2016-2026,285,240,12.62,13.03,96,97
+HOCR,Holy Cross,D1,Ballpark at Fitton Field,2016-2026,186,306,11.59,12.06,96,97
+JACK,Jacksonville,D1,John Sessions Stadium,2016-2026,290,253,11.00,11.49,95,97
+KEYS,Keystone,D3,Christy Mathewson Field,2016-2026,164,132,14.09,14.77,95,97
+LIPO,LIU Post,D2,LIU Post Baseball Field,2016-2019,68,78,10.29,11.12,92,97
+LAER,Lake Erie,D2,Classic Park,2016-2026,169,228,12.44,12.91,96,97
+LANE,Lane,D2,Lane Baseball Field,2016-2026,158,185,15.39,16.09,95,97
+LEOW,LeMoyne-Owen,D2,Jesse Turner Park,2016-2026,146,129,16.25,17.03,95,97
+LOHA,Lock Haven,D2,Watkins Field,2016-2026,155,196,11.35,11.91,95,97
+MUWX,MUW,D3,CCA Field,2018-2026,53,90,14.11,15.48,91,97
+MANH,Manhattan,D1,Clover Stadium,2016-2026,182,308,12.01,12.44,96,97
+MARI,Marietta,D3,Don and Sue Schaly Field at Pioneer Park,2016-2026,171,140,12.22,12.76,95,97
+MAMA,Mass. Maritime,D3,Commodore Hendy Field,2016-2026,175,126,11.82,12.37,95,97
+MERC,Mercer,D1,OrthoGeorgia Park at Claude Smith Field,2016-2026,307,258,13.08,13.53,96,97
+MICH,Michigan,D1,Wilpon Complex/Ray Fisher Stadium,2016-2026,239,227,11.70,12.09,96,97
+MOST,Montclair St.,D3,Yogi Berra Stadium,2016-2026,163,141,13.48,14.21,94,97
+MOOL,Mount Olive,D2,Scarborough Field,2016-2026,226,189,12.33,12.87,95,97
+NEBR,Nebraska,D1,Hawks Field,2016-2026,233,238,11.64,12.06,96,97
+NOMS,Northwest Mo. St.,D2,,2016-2026,188,201,13.11,13.70,95,97
+ORST,Oregon St.,D1,Goss Stadium At Coleman Field,2016-2026,271,221,10.42,10.91,95,97
+PAIN,Paine,,Lions Field,2016-2020,79,63,13.51,14.65,92,97
+PRNC,Principia,D3,Cheatham Field,2016-2026,142,129,14.79,15.60,94,97
+QUNY,Queens (NY),D2,Hennekens Stadium,2016-2026,191,186,12.05,12.60,95,97
+RCKH,Rockhurst,D2,Loyola Park,2016-2026,192,199,12.70,13.18,96,97
+ROWI,Roger Williams,D3,Paolino Field,2016-2026,127,154,12.25,12.89,95,97
+SIUE,SIUE,D1,Roy E. Field at Simmons Baseball Complex,2016-2026,240,275,13.24,13.73,96,97
+SUBR,SUNY Brockport,D3,Clark V. Whited Complex,2016-2026,116,150,12.13,12.69,95,97
+SMAR,Saint Mary's (MN),D3,Max Molock Field,2016-2026,124,122,9.66,10.25,94,97
+SAMF,Samford,D1,Joe Lee Griffin Field,2016-2026,301,248,12.20,12.70,96,97
+SHIP,Shippensburg,D2,Fairchild Field,2016-2026,222,213,10.95,11.34,96,97
+SOWE,Southern Wesleyan,D2,Dr. C. Keith Connor Field,2016-2026,207,198,14.03,14.51,96,97
+SPAL,Spalding,D3,Derby City Field,2016-2026,193,157,12.41,12.97,95,97
+STJF,St. John Fisher,D3,Dugan Yard,2016-2026,158,162,14.17,14.86,95,97
+STJO,St. Joseph's (ME),D3,Larry Mahaney Diamond,2016-2026,143,139,11.06,11.51,96,97
+STST,Stanislaus St.,D2,Warrior Baseball Field,2016-2026,208,169,11.13,11.61,95,97
+STET,Stetson,D1,Melching Field at Conrad Park,2016-2026,327,240,10.47,10.87,96,97
+STON,Stonehill,D1,Lou Gorman Field,2016-2026,144,197,12.99,13.57,95,97
+TRNA,Trevecca Nazarene,D2,Jackson Field,2016-2026,241,188,12.25,12.82,95,97
+WILU,Wis. Lutheran,D3,Neumann Family Baseball Field,2016-2026,114,155,12.86,13.66,94,97
+AMCX,A&M-Corpus Christi,D1,Chapman Field,2016-2026,293,239,11.55,12.25,94,96
+ADRI,Adrian,D3,Nicolay Field,2016-2026,175,199,12.25,13.04,93,96
+ALSG,Albany St. (GA),D2,West Campus Baseball Field,2016-2026,211,175,14.08,14.92,94,96
+ALFS,Alfred St.,D3,Alfred St. Baseball Field,2016-2026,111,197,12.32,13.26,92,96
+ALLI,Alliance,D2,Provident Bank Park,2016-2023,106,127,13.15,14.09,93,96
+AMHE,Amherst,D3,Memorial Field,2016-2026,126,116,12.87,13.69,93,96
+BECK,Becker,D3,Rochdale Park,2016-2021,55,62,13.44,15.19,88,96
+BEAB,Belmont Abbey,D2,Abbey Yard,2016-2026,212,208,13.86,14.72,94,96
+BEIL,Benedictine (IL),D3,Lisle/Benedictine Sports Complex,2016-2026,149,149,12.17,13.03,93,96
+CEDA,Cedarville,D2,Athletes in Action Complex,2016-2026,179,174,12.52,13.33,93,96
+CELA,Centenary (LA),D3,Shehee Stadium,2016-2026,156,161,12.37,13.05,94,96
+CENJ,Centenary (NJ),D3,Our Diamond of Dreams,2016-2026,180,130,13.28,14.18,93,96
+CHNE,Chris. Newport,D3,Captains Park,2016-2026,215,128,13.30,14.26,93,96
+COME,Colorado Mesa,D2,The Diamond at Bus Bergman Sports Complex,2016-2026,313,209,14.16,14.87,95,96
+COPO,Concordia Portland,D2,Porter Park,2016-2020,91,92,9.65,10.49,91,96
+CORN,Cornell,D1,Booth Field,2016-2026,111,207,11.80,12.65,93,96
+DYOX,D'Youville,D2,Sal Maglie Stadium,2016-2026,115,164,12.85,13.87,92,96
+FAST,Fairmont St.,D2,Mylan Park,2016-2026,191,188,11.57,12.21,94,96
+FRED,Fredonia,D3,Bill Ludwig Field,2016-2026,98,105,12.59,13.61,92,96
+GLST,Glenville St.,D2,Sue Morris Complex,2016-2026,237,186,10.54,11.25,93,96
+GOBE,Goldey-Beacom,D2,Doyle Field,2017-2026,202,186,12.63,13.31,94,96
+HASY,Hampden-Sydney,D3,Ty Cobb Ballpark,2016-2026,191,173,12.61,13.46,93,96
+HOPE,Hope,D3,Boeve Baseball Stadium,2016-2026,129,160,13.45,14.36,93,96
+HOUG,Houghton,D3,Houghton Baseball Stadium,2016-2026,147,126,13.39,14.39,93,96
+ILST,Illinois St.,D1,Duffy Bass Field,2016-2026,208,319,11.79,12.40,95,96
+JAST,Jackson St.,D1,Braddy Field,2016-2026,255,219,13.69,14.56,93,96
+LARO,La Roche,D3,La Roche Baseball Field,2016-2026,144,145,12.63,13.52,93,96
+LIPS,Lipscomb,D1,Ken Dugan Field,2016-2026,286,249,12.05,12.79,94,96
+LOCO,Louisiana Col.,D3,Billy Allgood Field,2016-2021,95,70,11.49,12.66,90,96
+MAVA,Marymount (VA),D3,Captial One Park,2016-2026,177,145,12.85,13.66,94,96
+MAMO,Maryville (MO),D2,Weber Field,2016-2026,252,200,12.39,13.07,94,96
+MEMA,Merchant Marine,D3,The Raymond J. Bartoszek '86 Field,2016-2026,153,131,11.74,12.47,94,96
+MORA,Moravian,D3,Gillespie Field,2016-2026,134,153,12.61,13.46,93,96
+MTSJ,Mt. St. Joseph,D3,Midland Field,2016-2026,154,137,12.93,13.88,93,96
+MUSK,Muskingum,D3,Mose Morehead Field,2016-2026,149,150,13.09,14.03,93,96
+NOST,Norfolk St.,D1,Marty L. Miller Field,2016-2026,264,220,12.83,13.55,94,96
+NOCA,North Carolina,D1,Boshamer Stadium,2016-2026,367,204,11.51,12.17,94,96
+NOCI,North Central (IL),D3,Zimmerman Stadium,2016-2026,165,148,13.62,14.41,94,96
+OHDO,Ohio Dominican,D2,Panther Valley,2016-2026,173,195,13.27,13.99,94,96
+OLIV,Olivet,D3,Cutler Athletic Complex - Baseball Field,2016-2026,116,164,12.68,13.76,92,96
+OUBA,Ouachita Baptist,D2,Rab Rodgers Field,2016-2026,216,197,11.50,12.21,94,96
+PESH,Penn St. Harrisburg,D3,Nittany Baseball Field,2016-2026,189,208,14.16,15.07,93,96
+POST,Post,D2,Municipal Stadium,2016-2026,155,180,12.42,13.17,94,96
+QUNC,Queens (NC),D1,Tuckaseegee Dream Fields,2019-2026,155,172,12.92,13.66,94,96
+ROHU,Rose-Hulman,D3,Art Nehf Field,2016-2026,178,155,13.24,14.05,94,96
+SAVI,Saint Vincent,D3,Bearcat Ballfield,2016-2026,126,138,12.22,13.13,93,96
+SADS,San Diego St.,D1,Tony Gwynn Stadium,2016-2026,287,253,11.66,12.36,94,96
+SOUT,Southern California,D1,Dedeaux Field,2016-2026,307,240,10.77,11.43,94,96
+SPRI,Springfield,D3,Archie Allen Field,2016-2026,148,113,11.91,12.77,93,96
+STBO,St. Bonaventure,D1,,2016-2026,164,247,12.13,12.87,94,96
+STCS,St. Cloud St.,D2,Joe Faber Field,2016-2026,163,154,11.63,12.49,93,96
+STSC,St. Scholastica,D3,Wade Stadium,2016-2026,121,125,12.18,13.18,92,96
+STBR,Stony Brook,D1,Joe Nathan Field,2016-2026,222,283,11.37,11.99,94,96
+THIE,Thiel,D3,Tomcat Park,2016-2026,150,148,13.45,14.45,93,96
+UCLA,UCLA,D1,Jackie Robinson Stadium,2016-2026,319,231,10.65,11.30,94,96
+UMLO,UMass Lowell,D1,LeLacheur Park,2016-2026,198,286,11.53,12.21,94,96
+WEKY,Western Ky.,D1,Nick Denes Field,2016-2026,321,225,11.64,12.28,94,96
+WILS,Wilson,D3,Henninger Field,2019-2026,112,123,13.96,15.02,93,96
+WINO,Winona St.,D2,Loughrey Field,2016-2026,141,202,12.04,12.79,94,96
+WIPL,Wis.-Platteville,D3,Kendall Murray Field,2016-2026,134,157,13.42,14.32,93,96
+ALCO,Alcorn,D1,"Willie E. ""Rat"" McGowan Stadium",2016-2026,179,231,15.18,16.32,93,95
+BELO,Beloit,D3,The Ballpark at Strong Stadium,2016-2026,126,137,13.44,14.64,91,95
+BEMN,Bethel (MN),D3,Hargis Park,2016-2026,129,122,10.92,11.84,92,95
+BUCK,Bucknell,D1,Depew Field,2016-2026,182,234,11.84,12.75,92,95
+CSPU,CSU Pueblo,D2,Rawlings Field,2016-2026,228,199,14.36,15.41,93,95
+CWRU,CWRU,D3,Nobby's Ballpark,2016-2026,144,162,12.44,13.44,92,95
+CAPP,Cal Poly Pomona,D2,Scolinos Field,2016-2026,195,197,10.75,11.63,92,95
+CAME,Cameron,D2,McCord Field,2016-2026,211,198,13.42,14.40,93,95
+CHAT,Chatham,D3,West Field,2018-2026,105,120,12.47,13.78,90,95
+COST,Columbus St.,D2,Burger King Stadium at Ragsdale Field,2016-2026,235,213,12.47,13.45,92,95
+CORT,Cortland,D3,Wallace Field,2016-2026,167,170,12.06,13.00,92,95
+DEFI,Defiance,D3,Craig A Rutter Field,2016-2024,100,123,12.73,13.92,91,95
+DICK,Dickinson,D3,MacPhail Field,2016-2026,135,142,12.78,13.88,92,95
+FIUX,FIU,D1,FIU Baseball Stadium,2016-2026,312,223,12.46,13.31,93,95
+FLAG,Flagler,D2,Drysdale Field,2016-2026,224,199,11.08,11.87,93,95
+FRES,Fresno St.,D1,Pete Beiden Field at Bob Bennett Stadium,2016-2026,282,258,12.07,12.97,93,95
+GAXX,Ga. Southwestern,D2,Hurricane Stadium,2016-2026,234,193,12.37,13.26,93,95
+GEMA,George Mason,D1,Spuhler Field,2016-2026,263,238,11.89,12.69,93,95
+GRVS,Grand Valley St.,D2,GVSU Baseball Field,2016-2026,152,178,11.90,12.93,92,95
+JACS,Jacksonville St.,D1,Rudy Abbott Field,2016-2026,290,260,12.18,12.95,94,95
+KUTZ,Kutztown,D2,North Campus Baseball Field,2016-2026,169,180,11.06,11.85,93,95
+LAND,Lander,D2,Stephen B. Dolny Stadium,2016-2026,227,209,13.36,14.35,93,95
+LEVA,Lebanon Valley,D3,McGill Field,2016-2026,164,137,13.04,14.23,91,95
+MSOE,MSOE,D3,MSOE Raider Stadium,2016-2026,155,138,12.53,13.61,92,95
+MICR,Minn.-Crookston,D2,UMC Baseball Field,2016-2026,130,175,11.85,12.87,92,95
+MRHS,Morehouse,D2,Gresham Park,2016-2026,153,135,14.50,15.88,91,95
+NEWB,Newberry,D2,Smith Road Complex,2016-2026,216,204,12.13,13.03,93,95
+NRTH,Northland,D3,,2016-2025,78,133,13.68,15.29,89,95
+PAOR,Pacific (OR),D3,Bond Field at Chuck Bafaro Stadium,2016-2026,178,153,11.80,12.86,91,95
+PALU,Pacific Lutheran,D3,Pacific Lutheran Baseball Field,2016-2026,147,181,11.84,12.76,92,95
+PECO,Penn College,D3,Journey Bank Ballpark at Historic Bowman Field,2016-2026,109,136,13.43,14.62,91,95
+PSTX,Penn St.-Behrend,D3,Penn St. Behrend Baseball Complex,2016-2026,129,165,12.38,13.55,91,95
+RUTG,Rutgers,D1,Bainton Field,2016-2026,222,290,11.72,12.58,93,95
+SAFS,San Fran. St.,,Maloney Field,2016-2025,173,179,10.97,11.90,92,95
+SAFR,San Francisco,D1,Benedetti Diamond,2016-2026,267,273,10.64,11.32,94,95
+SEHI,Seton Hill,D2,,2016-2026,224,199,10.57,11.41,92,95
+SIMP,Simpson,D3,McBride Field,2016-2026,155,133,11.53,12.60,91,95
+SOOK,Southeastern Okla.,D2,Mike Metheny Field,2016-2026,196,202,13.21,14.14,93,95
+SPHI,Spring Hill,D2,Stan Galle Field,2016-2026,188,193,13.93,15.03,92,95
+TUSC,Tusculum,D2,Eastman Credit Union Field at Pioneer Park,2016-2026,218,193,12.98,14.06,92,95
+UMES,UMES,D1,Hawk Stadium,2016-2026,184,265,12.60,13.65,92,95
+UNCW,UNCW,D1,Brooks Field,2016-2026,322,244,11.29,12.00,94,95
+VTCA,VTSU Castleton,D3,Spartan Field,2016-2026,120,198,12.78,14.00,91,95
+VILL,Villanova,D1,Villanova Ballpark at Plymouth,2016-2026,194,251,10.94,11.82,92,95
+WAYN,Waynesburg,D3,Waynesburg Field,2016-2026,148,137,11.92,13.09,91,95
+WENT,Wentworth,D3,Libby Field,2016-2026,94,135,11.74,13.01,90,95
+WESL,Wesley,D3,Bob Reed Field,2016-2021,81,68,14.36,16.37,87,95
+WEAL,West Ala.,D2,Tartt Field,2016-2026,201,184,11.50,12.34,93,95
+WESS,Westfield St.,D3,Bud and Jim Hagan Field,2016-2026,138,154,11.07,12.14,91,95
+WMPA,Wm. Paterson,D3,Jeff Albies Field,2016-2026,176,136,13.35,14.46,92,95
+ARPB,Ark.-Pine Bluff,D1,Torii Hunter Baseball Complex,2016-2026,205,266,13.95,15.20,91,94
+ARKS,Arkansas St.,D1,Tomlinson Stadium/Slayton Family Field,2016-2026,275,249,11.99,12.99,92,94
+AVER,Averett,D3,Owen-Fulton Field,2016-2026,169,172,12.09,13.38,90,94
+BAWA,Baldwin Wallace,D3,Fisher Field,2016-2026,167,162,12.40,13.60,91,94
+BOCO,Boston College,D1,Brighton Baseball Field,2016-2026,223,260,11.51,12.54,91,94
+BRAD,Bradley,D1,Dozer Park,2016-2026,175,263,12.10,13.26,91,94
+CAMP,Campbell,D1,Jim Perry Stadium,2016-2026,288,240,12.96,14.10,91,94
+CEIA,Central (IA),D3,Central College Baseball Field,2016-2026,131,146,11.55,12.88,89,94
+DUBU,Dubuque,D3,Dan. W. Runkle Field,2016-2026,153,148,10.13,11.24,90,94
+FAIR,Fairfield,D1,Alumni Diamond,2016-2026,213,279,11.22,12.16,92,94
+IOWE,Iowa Wesleyan,D3,,2016-2021,66,84,11.55,13.46,85,94
+ITHA,Ithaca,D3,Freeman Field,2016-2026,118,178,12.62,14.08,89,94
+LESL,Lesley,D3,Minuteman Field,2016-2026,133,132,12.01,13.25,90,94
+LINF,Linfield,D3,Roy Helser Field/Jim Wright Stadium,2016-2026,182,154,11.09,12.16,91,94
+LYCO,Lycoming,D3,Brandon Park,2023-2026,66,71,10.77,12.52,86,94
+MIDD,Middlebury,D3,Forbes Field,2016-2026,128,124,12.59,14.17,88,94
+MINS,Minnesota St.,D2,MSU Baseball Complex,2016-2026,138,163,11.03,12.32,89,94
+NCWX,N.C. Wesleyan,D3,Bauer Field,2016-2026,209,166,13.20,14.58,90,94
+NYUX,NYU,D3,SIUH Community Park,2016-2026,141,120,13.44,15.14,88,94
+NODS,North Dakota St.,D1,Newman Outdoor Field,2016-2026,160,300,10.46,11.49,91,94
+SUON,SUNY Oneonta,D3,Red Dragon Baseball Field,2016-2026,131,131,11.45,12.74,89,94
+SAWV,Salem (WV),D2,Frank Loria Memorial Field,2016-2026,235,178,12.06,13.32,90,94
+STMS,St. Mary's (MD),D3,Hawk's Nest,2016-2026,150,132,14.23,15.91,89,94
+SUFF,Suffolk,D3,East Boston Memorial Stadium,2016-2026,126,153,12.28,13.59,90,94
+TUFT,Tufts,D3,Sol Gittleman Park,2016-2026,156,161,11.96,13.19,90,94
+UICX,UIC,D1,Curtis Granderson Stadium,2016-2026,211,273,11.10,12.02,92,94
+VTLY,VTSU Lyndon,D3,Skip Pound Field,2016-2026,101,142,11.08,12.47,88,94
+WART,Wartburg,D3,Hertel Field,2016-2026,150,143,11.17,12.26,91,94
+WSTM,Westmont,D2,Russ Carr Field,2024-2026,65,53,9.88,12.04,82,94
+CAPA,California (PA),D2,EQT Park,2016-2026,234,166,10.43,11.67,89,93
+CHAP,Chapman,D3,Hart Park,2016-2026,208,146,11.30,12.72,88,93
+DENI,Denison,D3,Big Red Baseball Field,2016-2026,166,151,12.50,13.94,89,93
+DREW,Drew,D3,Doc Young Field,2016-2026,148,147,12.41,13.99,88,93
+EACS,Eastern Conn. St.,D3,Eastern Baseball Stadium,2016-2026,154,163,11.82,13.40,88,93
+ELIZ,Elizabethtown,D3,Kevin Scott Boyd Stadium,2016-2026,146,155,12.05,13.50,89,93
+GWME,Gwynedd Mercy,D3,Frank O. Genuardi Legends Baseball Field,2016-2026,146,134,13.38,15.09,88,93
+KEAN,Kean,D3,Jim Hynes Stadium,2016-2026,216,157,10.97,12.21,89,93
+LETO,LeTourneau,D3,Conrad-Vernon Field,2016-2026,174,173,12.09,13.50,89,93
+MAWA,Mary Washington,D3,V. Earl Dickinson Stadium,2016-2026,176,142,12.69,14.23,89,93
+METH,Methodist,D3,Armstrong-Shelley Field,2016-2026,215,155,12.77,14.41,88,93
+MIST,Michigan St.,D1,Jeff Ishbia Field at McLane Baseball Stadium,2016-2026,201,212,11.05,12.37,89,93
+MILE,Miles,D2,Rickwood Field,2016-2026,176,166,14.20,15.86,89,93
+MOIL,Monmouth (IL),D3,Glasgow Field,2016-2026,126,132,12.98,14.70,88,93
+NJIT,NJIT,D1,Bears &amp; Eagles Riverfront Stadium,2016-2026,191,280,11.06,12.41,89,93
+NEHA,New Haven,D1,Frank Vieira Field,2016-2026,166,167,10.17,11.30,90,93
+OHIO,Ohio,D1,Bob Wren Stadium,2016-2026,227,264,11.99,13.17,91,93
+SEHA,Seton Hall,D1,"Mike Sheppard, Sr. Stadium at Owen T. Carroll Field",2016-2026,223,244,9.94,10.94,90,93
+SIEN,Siena,D1,Connors Park,2016-2026,186,313,11.97,13.35,89,93
+STMX,St. Mary's (TX),D2,Dickson Stadium,2016-2026,222,196,12.45,13.76,90,93
+STTM,St. Thomas (MN),D1,Koch Diamond,2016-2026,122,218,10.11,11.49,87,93
+CITA,The Citadel,D1,Joseph P. Riley Jr. Park,2016-2026,311,228,11.14,12.27,90,93
+UCSB,UC Santa Barbara,D1,Caesar Uyesaka,2016-2026,288,267,10.31,11.39,90,93
+AKRO,Akron,D1,Skeeles Field,2020-2026,138,177,12.02,13.81,87,92
+BARU,Baruch,D3,Flowers Park,2016-2026,101,100,11.47,13.69,83,92
+BELM,Belmont,D1,E.S. Rose Park,2016-2026,306,249,11.71,13.09,89,92
+BUTL,Butler,D1,Bulldog Park,2016-2026,194,276,12.10,13.63,88,92
+CLMS,Claremont-M-S,D3,Bill Arce Field,2016-2026,152,149,12.86,14.73,87,92
+COWI,Concordia Wisconsin,D3,Kapco Field,2016-2026,149,151,11.13,12.81,86,92
+ENDI,Endicott,D3,North Field,2016-2026,212,166,11.17,12.73,87,92
+FARM,Farmingdale St.,D3,FSC Baseball Complex,2016-2026,162,118,10.62,12.42,85,92
+FRMA,Francis Marion,D2,Sparrow Stadium,2016-2026,223,179,13.07,14.96,87,92
+KITN,King (TN),D2,King College Baseball Complex,2016-2026,205,190,12.72,14.38,88,92
+LIUX,LIU,D1,LIU Field,2016-2026,197,289,11.86,13.34,88,92
+MAIN,Maine,D1,Mahaney Diamond,2016-2026,180,275,11.19,12.63,88,92
+MEST,Mercyhurst,D1,Mercyhurst Baseball Field,2016-2026,196,199,10.43,11.85,88,92
+MIDU,Minn. Duluth,D2,,2016-2026,152,168,12.22,13.89,87,92
+OREG,Oregon,D1,PK Park,2016-2026,312,239,10.80,12.08,89,92
+PRES,Presbyterian,D1,PC Baseball Complex,2016-2026,254,264,11.71,13.18,88,92
+PURC,Purchase,D3,Purchase Baseball Field,2016-2026,161,129,11.42,13.23,86,92
+ROLL,Rollins,D2,Alfond Stadium at Harper-Shepherd Field,2016-2026,241,178,11.35,12.85,88,92
+SUCO,SUNY Cobleskill,D3,Fighting Tiger Field,2018-2026,105,122,12.25,14.50,84,92
+SAVS,Savannah St.,D2,Tiger Field,2016-2026,208,175,12.47,14.07,88,92
+SOCS,Southern Conn. St.,D2,The Ballpark at SCSU,2016-2026,147,182,11.44,13.08,87,92
+UCHI,UChicago,D3,J. Kyle Anderson Field,2016-2026,133,177,12.14,13.92,87,92
+UTAR,UT Arlington,D1,Clay Gould Ballpark,2016-2026,258,274,10.88,12.08,90,92
+UTRG,UTRGV,D1,UTRGV Baseball Stadium,2016-2026,285,247,11.13,12.55,88,92
+WALE,Wash. & Lee,D3,Cap'n Dick Smith Field,2016-2026,167,150,12.46,14.42,86,92
+WIPE,William Peace,D3,USA Baseball Nat'l Training Complex,2016-2026,216,144,12.45,14.47,86,92
+WIWH,Wis.-Whitewater,D3,Prucha Field at James B. Miller Stadium,2016-2026,206,160,12.45,14.12,88,92
+WRST,Wright St.,D1,Nischwitz Stadium,2016-2026,256,291,12.51,13.98,89,92
+AUGS,Augsburg,D3,Parade Stadium,2016-2026,103,123,10.30,12.59,81,91
+CREI,Creighton,D1,Charles Schwab Field Omaha,2016-2026,224,248,9.90,11.40,86,91
+EAST,East Stroudsburg,D2,Baseball Field at Creekview Park,2016-2026,232,180,10.03,11.61,86,91
+FELI,Felician,D2,Breslin Field,2016-2026,208,205,11.84,13.50,87,91
+HARD,Harding,D2,Jerry Moore Field,2016-2026,230,211,10.73,12.37,86,91
+HEST,Henderson St.,D2,Clyde Berry Field,2016-2026,227,211,11.46,13.09,87,91
+HUSS,Husson,D3,Dr. John W. Winkin Sports Complex,2016-2026,145,155,9.57,11.20,85,91
+LEHI,Lehigh,D1,J. David Walker Field at Legacy Park,2016-2026,214,254,10.97,12.56,87,91
+MARS,Marshall,D1,Jack Cook Field,2016-2026,262,246,11.35,12.95,87,91
+NEYT,New York Tech,D2,Angelo Lorenzo Memorial Field,2016-2020,70,85,9.54,12.09,78,91
+NORT,Northeastern,D1,Friedman Diamond,2016-2026,216,258,10.27,11.83,86,91
+ORRO,Oral Roberts,D1,Chapman Park,2016-2026,286,267,10.84,12.30,88,91
+PEPP,Pepperdine,D1,Eddy D. Field Baseball Stadium,2016-2026,248,252,10.21,11.68,87,91
+SEUX,Seattle U,D1,Bannerwood Park,2016-2026,235,275,11.02,12.53,87,91
+SOMI,Southern Miss.,D1,Pete Taylor Park at Hill Denson Field,2016-2026,320,238,10.98,12.59,87,91
+UTDA,UT Dallas,D2,UTD Baseball Field,2016-2026,181,189,12.32,14.18,86,91
+VCUX,VCU,D1,The Diamond,2016-2026,275,267,11.26,12.84,87,91
+WSHN,Washington,D1,Husky Ballpark,2016-2026,270,246,9.79,11.09,88,91
+WASM,Wayne St. (MI),D2,Harwell Field,2016-2026,152,162,11.45,13.30,86,91
+CEMO,Central Mo.,D2,Crane Stadium,2016-2026,243,207,13.07,15.14,86,90
+COTX,Concordia (TX),D3,Gardner-Boggs Field,2016-2026,196,165,10.83,12.80,84,90
+HAHI,Hawaii Hilo,D2,Francis Wong Stadium,2016-2026,183,196,10.33,12.05,85,90
+HOOD,Hood,D3,FCC Baseball Field,2016-2026,175,157,10.80,12.86,84,90
+MLLK,Millikin,D3,Workman Family Baseball Field,2016-2026,196,164,10.73,12.65,84,90
+SAST,Sacramento St.,D1,John Smith Field,2016-2026,300,258,10.34,11.87,87,90
+TEXX,Tex. A&M-Kingsville,D2,Nolan Ryan Field,2016-2026,220,204,11.28,13.16,85,90
+WAGN,Wagner,D1,SIUH Community Park,2016-2026,205,275,11.52,13.44,85,90
+WSHB,Washburn,D2,Falley Field,2016-2026,205,203,13.12,15.44,85,90
+WEBS,Webster,D3,GCS Ballpark,2016-2026,182,150,10.84,12.89,84,90
+WEOR,Western Ore.,D2,WOU Baseball Field,2016-2026,164,196,10.31,12.12,85,90
+YALE,Yale,D1,Yale Field,2016-2026,148,237,10.57,12.55,84,90
+BELH,Belhaven,D3,Trustmark Park,2016-2026,192,187,11.31,13.54,83,89
+BRID,Bridgeport,D2,Seaside Park Diamond 1,2016-2026,176,187,10.85,13.13,82,89
+CHWV,Charleston (WV),D2,Welch Athletic Complex,2016-2026,237,213,10.43,12.37,84,89
+FORD,Fordham,D1,Houlihan Park,2016-2026,253,270,10.51,12.41,84,89
+LOUI,Louisiana,D1,M.L. 'Tigue' Moore Field at Russo Park,2016-2026,317,231,9.97,11.84,84,89
+MARY,Mary,D2,Bismarck Municipal Ballpark,2016-2026,151,183,11.62,14.01,83,89
+UCIR,UC Irvine,D1,Anteater Ballpark,2016-2026,281,267,10.49,12.28,85,89
+WEFL,West Florida,D1,Jim Spooner Field,2016-2026,232,198,10.36,12.29,84,89
+GAWE,Gardner-Webb,D1,John Henry Moss Stadium,2016-2026,285,253,11.51,13.87,83,88
+LIND,Lindenwood,D1,Lou Brock Sports Complex,2016-2026,251,239,10.82,12.98,83,88
+MSDE,MSU Denver,D2,The Assembly Athletic Complex,2016-2026,243,187,13.93,16.94,82,88
+SANX,San Jose St.,D1,Excite Ballpark,2016-2026,259,272,11.38,13.49,84,88
+ALLE,Allegheny,D3,Robertson Baseball Field,2016-2026,142,133,11.49,14.78,77,87
+LOBS,Long Beach St.,D1,Blair Field,2016-2026,295,246,8.96,10.85,82,87
+MILL,Millersville,D2,Bennett J. Cooper Park,2016-2026,218,198,9.91,12.33,80,87
+NODO,Notre Dame (OH),D2,Mercy Health Stadium,2016-2024,157,166,9.95,12.45,79,87
+POLO,Point Loma,D2,Carroll B. Land Stadium,2016-2026,226,204,10.23,12.53,81,87
+RHIS,Rhode Island,D1,Bill Beck Field,2016-2026,199,312,11.00,13.49,81,87
+SAMS,Saint Martin's,D2,Saints Field,2016-2026,188,208,10.50,13.01,80,87
+IONA,Iona,D1,City Park,2016-2026,167,279,10.59,13.48,78,86
+LAUN,Lamar University,D1,Vincent-Beck Stadium,2016-2026,284,257,9.77,12.07,81,86
+ROST,Rogers St.,D2,RCB Bank Sports Complex,2016-2026,228,198,11.29,14.13,79,86
+VIST,Virginia St.,D2,Whaley Colbert Field,2016-2026,171,100,10.44,14.59,71,86
+SOST,Sonoma St.,D2,Seawolf Diamond,2016-2025,169,165,9.81,13.10,74,84
+UTTY,UT Tyler,D2,UT Tyler- Irwin Field,2016-2026,226,200,11.22,14.69,76,84
