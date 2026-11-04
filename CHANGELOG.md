@@ -1,5 +1,38 @@
 # Changelog
 
+## Unreleased
+
+**License change**
+- The dataset is now licensed under **CC BY 4.0** (attribution required) instead of CC0; see
+  `LICENSE` for the citation. v1.0.0 as already published remains under CC0.
+
+**New: opponent-adjusted stats**
+- `stats/adjusted_batting.csv` / `stats/adjusted_pitching.csv` — every counting event and rate
+  stat adjusted for opponent quality and park, from an OLS regression on every plate appearance
+  (batter-season + pitcher-season + park fixed effects + home term), one regression per division.
+  Includes `raw_` comparison columns and an `opp_wOBA` strength-of-schedule column.
+- `run_values/adjusted_parks.csv` — per-venue park effects from that regression.
+- **"+" stats** — a 100-scale index (higher = better) for every rate stat in the advanced and
+  adjusted files: JOPS+, TBIP+, WPT+, WHIP+, FIP+, AVG+, OBP+, K%+, BB%+, wOBA+, …
+
+**Fixes**
+- Play-by-play parser: from 2018 on, stats.ncaa.org renders the `;` clause separator as a
+  literal `3a` (`"…singled (1-2 SBS) 3a Botti advanced to second"`) in ~15% of plays. Runner
+  advances after it were being dropped; they are now parsed. **All event files were rebuilt**
+  (e.g. v1 `HR` → `HR.1-H`, `S` → `S.2-H`), as were `re24.csv`, `linear_weights.csv`,
+  `run_constants.csv` and the wOBA-based advanced stats. Run expectancy for 2018+ rises
+  substantially (D1 2024, bases empty/0 out: 0.62 → 0.77).
+- `pbp_ids_{season}.csv.gz`: the `narrative` column now shows `;` instead of `3a` and has HTML
+  entities decoded (`&amp;` → `&`).
+- Every linked player keeps the exact v1 `retro_id` (verified for all 146,830). Ids of
+  narrative-only names (unlinked, `linked = 0`, no stats attached) may be renumbered.
+- ~54,800 blank names in `player_crosswalk.csv` (mostly unlinked narrative-only ids, plus ~2,200
+  linked players missing from the source's player table) were filled from the rosters, and the
+  `name` column of the season/advanced stats files backfilled from it (~4,400 rows).
+- `advanced_batting.csv`: total bases are now computed from hit types; where the source left
+  TB blank (mostly ≤2016) SLG/OPS/ISO/JOPS/OPS+ previously read as if TB = 0
+  (e.g. D1 2016 lgSLG was 0.037).
+
 ## v1.0.0 — 2026-09-15
 
 First public release. NCAA college baseball (Divisions I–III), seasons 2016–2026, derived

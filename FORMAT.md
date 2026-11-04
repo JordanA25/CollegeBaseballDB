@@ -186,6 +186,94 @@ division couldn't be determined (~0.6%).
 | GO/FO, GB%out | ground-out/fly-out ratio and share (of outs, not all balls in play) |
 | Pit/PA | pitches per batter faced |
 
+## `stats/adjusted_batting.csv` / `adjusted_pitching.csv` — opponent-adjusted stats
+
+Every counting event and rate stat, **adjusted for the quality of the opponents faced and the
+parks played in**, from an ordinary-least-squares regression on every plate appearance
+(2016–2026, play-by-play). **One regression per division** — D1, D2 and D3 are never mixed.
+
+For each PA outcome *e* (single, double, triple, HR, walk, IBB, HBP, strikeout, ROE, fielder's
+choice, SF, SH, interference, ground out, air out, other out, and GDP):
+
+```
+y_e = μ + h·home + β[batter-season] + γ[pitcher-season] + δ[park] + ε     (y_e = 1 if the PA ended in e)
+```
+
+- **Batter / pitcher effects are per player-season**, centred to 0 within each season, so every
+  season keeps its own run environment. **Park effects are one per venue, pooled 2016–2026**
+  (a single ~25-game home slate is far too noisy); neutral-site games share one level. `home`
+  is the batting-team-at-home indicator.
+- **Adjusted count = (season league rate + player effect) × PA** (pitchers: × batters faced) —
+  the line the player would have posted against an average opponent in an average park.
+  Outcomes are mutually exclusive, so adjusted counts sum exactly to PA, and **every rate stat
+  is computed from the adjusted counts** — each row is an internally consistent box score.
+- **RE24** (run value = RE_after − RE_before + runs on the play) is fit the same way, on the
+  ~98% of PAs whose after-state is known.
+- Unlinked players (non-NCAA opponents, the ~2% of unresolved names) are pooled one level per
+  team-season so their PAs still inform their opponents; they aren't written out.
+
+**Batting** — `retro_id,player_id,canonical_id,name,season,division,team,PA,AB,H,1B,2B,3B,HR,BB,`
+`IBB,HBP,K,SF,SH,ROE,GDP,TB,AVG,OBP,SLG,OPS,JOPS,ISO,BABIP,K%,BB%,HR%,wOBA,wRAA,wRC+,RE24,`
+`raw_OPS,raw_wOBA,raw_wRC+,raw_RE24,opp_wOBA`
+
+**Pitching** — `retro_id,player_id,canonical_id,name,season,division,team,BF,IP,AB,H,1B,2B,3B,`
+`HR,BB,IBB,HBP,K,GO,AO,GDP,TB,BAA,oppOBP,oppSLG,oppOPS,oppJOPS,BABIP,K%,BB%,K-BB%,HR%,wOBA,WHIP,TBIP,WPT,FIP,`
+`RE24,raw_wOBA,raw_FIP,raw_RE24,opp_wOBA`
+
+| column | meaning |
+|---|---|
+| PA / BF, IP | actual plate appearances / batters faced and innings (play-by-play; IP in thirds notation, 44.2 = 44⅔) — the only unadjusted volume columns |
+| `BB` | **unintentional** walks (IBB is its own column); BB% = (BB+IBB)/PA |
+| counts (1B … GDP, GO, AO) | adjusted, 1 decimal, fractional. **Floored at 0**: OLS on a 0/1 outcome (a linear probability model) can push a rare event a player never had below zero (0 HR allowed vs HR-prone opponents → −1.9 HR, making TB < H); truncating moves a row by a fraction of an event, so counts sum to PA to within ~1 |
+| AVG … wRC+ | computed from the adjusted counts, same formulas as the advanced files; wOBA weights/scale from that division-season's `linear_weights.csv`. **wRC+ is not re-park-adjusted** — the park is already in the model |
+| `RE24` | batters: adjusted RE24 runs (vs avg opponent & park); pitchers: adjusted runs **saved** (positive = good) |
+| `FIP` | from adjusted HR/BB/IBB/HBP/K over actual IP, constant set so league FIP = league ERA |
+| `WHIP` / `TBIP` / `WPT` | (H+BB+IBB)/IP, (TB+BB+IBB)/IP and their sum, from adjusted counts over actual IP — same definitions as `advanced_pitching.csv` |
+| `oppJOPS` | a·oppOBP + oppSLG with the division's JOPS weight |
+| `raw_*` | the same stat **unadjusted**, from the same play-by-play PAs, for comparison |
+| `opp_wOBA` | strength of schedule: PA-weighted mean adjusted wOBA of the opponents faced — for a batter, the wOBA his pitchers allow (**lower = tougher**); for a pitcher, the wOBA of the batters he faced (**higher = tougher**) |
+| GO / AO | ground outs / air outs (fly, line, pop) |
+
+Small samples: an OLS effect for a player with a handful of PAs is mostly noise — filter on PA/BF.
+These come from the play-by-play, so totals differ slightly from the official season files.
+
+## "+" stats (all four advanced/adjusted files)
+
+Every rate stat also has a **"+" index** column appended at the end of each row:
+**100 = league average for that division-season, and higher is always better for the player**
+(the same convention as OPS+, wRC+ and ERA+).
+
+- Stats where more is better use `100 · x / lg` — e.g. AVG+, OBP+, SLG+, JOPS+, wOBA+, a
+  hitter's BB%+, a pitcher's K%+.
+- Stats where less is better use the ERA+ form `100 · lg / x` — e.g. WHIP+, TBIP+, WPT+, FIP+,
+  BAA+, oppJOPS+, a pitcher's BB%+, a **hitter's K%+** (so 120 = strikes out less than average).
+- League values are each stat's volume-weighted average over that division-season (AB, PA, BF or
+  IP as the weight), so they equal the league ratio; composites are built from parts
+  (lgJOPS = a·lgOBP + lgSLG, lgWPT = lgWHIP + lgTBIP).
+- Ratio-form indexes (JOPS+, wOBA+, …) have a narrower spread than OPS+, whose formula
+  `100·(OBP/lgOBP + SLG/lgSLG − 1)` adds two ratios. In the ERA+ form a very small x makes the
+  index very large (a pitcher with a 1% walk rate has BB%+ ≈ 900); x = 0 is left blank.
+
+| file | + columns |
+|---|---|
+| advanced_batting | AVG+ OBP+ SLG+ ISO+ BABIP+ BB%+ K%+ HR%+ XBH%+ wOBA+ JOPS+ (OPS+, wRC+ already existed) |
+| advanced_pitching | WHIP+ TBIP+ WPT+ FIP+ K/9+ BB/9+ HR/9+ H/9+ K%+ BB%+ K-BB%+ BABIP+ LOB%+ BAA+ oppOBP+ oppSLG+ oppOPS+ (ERA+ already existed) |
+| adjusted_batting | AVG+ OBP+ SLG+ OPS+ JOPS+ ISO+ BABIP+ K%+ BB%+ HR%+ wOBA+ (wRC+ already existed) |
+| adjusted_pitching | BAA+ oppOBP+ oppSLG+ oppOPS+ oppJOPS+ BABIP+ K%+ BB%+ K-BB%+ HR%+ wOBA+ WHIP+ TBIP+ WPT+ FIP+ |
+
+In the **advanced** files the new + stats are league-adjusted but **not park-adjusted** (the
+existing OPS+, wRC+, ERA+ and FIP- are; `FIP+ = 10000 / FIP-` so it matches them). In the
+**adjusted** files every + stat is opponent- and park-neutral, because the counts underneath are.
+
+## `run_values/adjusted_parks.csv` — park effects from the PA regression
+
+`division,park,games,PA,wOBA,wOBA_index,AVG,OBP,SLG,HR%,K%,BB%` — the δ[park] effects from
+the regression above, one row per venue per division (`park` = home team code, or
+`NEUTRAL`), shown as the line an average batter vs. an average pitcher would post there.
+`wOBA_index` 100 = division-average park, >100 = hitter's park. Unlike `park_factors.csv`
+(team runs home vs. road) this controls for exactly who batted and pitched in each game, and
+has per-component splits (HR%, K%, BB%). The two agree closely (r ≈ 0.8 in D1).
+
 ## `run_values/run_constants.csv` — league constants
 
 `division,season,PA,lgAVG,lgOBP,lgSLG,lgR/PA,wOBA_scale,lgwOBA,w1B,w2B,w3B,wHR,wBB,wHBP,`

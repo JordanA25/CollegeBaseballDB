@@ -8,6 +8,8 @@ and game tied together by stable IDs.
 - **Play-by-play text with resolved IDs** (each play's narrative + every player in it → an 8-char ID)
 - **Season batting & pitching stats** (official NCAA season totals)
 - **Advanced metrics** — wOBA, wRC+, OPS+, JOPS, ISO, FIP, ERA+, WPT, … park-adjusted and per-division
+- **Opponent-adjusted stats** — every counting event and rate stat, adjusted for opponent quality
+  and park by an OLS regression on every plate appearance (per division)
 - **Run values** — RE24 matrix, linear weights, and park factors, per division × season
 - **Game-by-game batting & pitching logs** (2024–2026; see *Coverage* below)
 - One **player crosswalk** and one **team-code table** join everything together
@@ -35,6 +37,8 @@ CollegeBaseballDB/
 │   ├── season_pitching.csv       ← per player-season, standard totals (all years)
 │   ├── advanced_batting.csv      ← per player-season, advanced metrics (wOBA, wRC+, OPS+, …)
 │   ├── advanced_pitching.csv     ← per player-season, advanced metrics (FIP, ERA+, K%, …)
+│   ├── adjusted_batting.csv      ← per player-season, opponent- & park-adjusted (PA-level OLS)
+│   ├── adjusted_pitching.csv     ← per player-season, opponent- & park-adjusted (PA-level OLS)
 │   ├── gamelog_batting.csv.gz    ← per player-game, 2024–2026 (gzipped)
 │   └── gamelog_pitching.csv.gz   ← per player-game, 2024–2026 (gzipped)
 └── run_values/                   ← sabermetric run values & context
@@ -42,7 +46,8 @@ CollegeBaseballDB/
     ├── linear_weights.csv        ← run value of each event type (per division × season)
     ├── run_constants.csv         ← league constants (wOBA scale, FIP constant, lgOBP/ERA, …)
     ├── park_factors.csv          ← per-team park factors (100 = neutral), pooled 2016–2026
-    └── jops_constants.csv        ← the JOPS OBP-weight (a in a·OBP+SLG) per division
+    ├── jops_constants.csv        ← the JOPS OBP-weight (a in a·OBP+SLG) per division
+    └── adjusted_parks.csv        ← per-venue park effects from the PA regression
 ```
 
 **Compressed files:** the bulk is compressed to keep the repo light (~655 MB). `.csv.gz` files
@@ -69,6 +74,11 @@ print(d1.nlargest(10, "wRC+")[["name", "team", "PA", "OPS", "JOPS", "wRC+"]])
 xw = pd.read_csv("player_crosswalk.csv")
 pid = xw.loc[xw.name == "Herron, Jimmy", "retro_id"].iloc[0]     # -> herrj001
 print(bat[bat.retro_id == pid][["season", "team", "OPS", "wRC+"]])
+
+# 2b) Opponent-adjusted wOBA vs raw (D1 2026, min 150 PA)
+adj = pd.read_csv("stats/adjusted_batting.csv")
+a = adj[(adj.division == "D1") & (adj.season == 2026) & (adj.PA >= 150)]
+print(a.nlargest(10, "wOBA")[["name", "team", "PA", "wOBA", "raw_wOBA", "wRC+", "opp_wOBA"]])
 
 # 3) Season pitching leaders by FIP (2026, min 60 IP)
 pit = pd.read_csv("stats/advanced_pitching.csv")
@@ -139,6 +149,21 @@ GO/FO, Pit/PA.
   base (so TBIP ≥ WHIP; the gap is the extra bases from extra-base hits).
 - **WPT** = `WHIP + TBIP` — the pitching analog of OPS (**lower is better**).
 
+**"+" stats** — every rate stat in the advanced and adjusted files also has a "+" index (JOPS+,
+TBIP+, WPT+, WHIP+, FIP+, AVG+, K%+, …): **100 = league average for that division-season, higher
+is always better**, like OPS+ and ERA+.
+
+**Opponent-adjusted** (`stats/adjusted_batting.csv`, `stats/adjusted_pitching.csv`): a college
+hitter's raw line depends heavily on who he played — a Sun Belt slate and an SEC slate are
+different leagues. For every plate-appearance outcome (1B, 2B, 3B, HR, BB, IBB, HBP, K, ROE,
+SF, SH, GDP, ground/air outs, plus RE24 run value) we fit an ordinary-least-squares regression
+on **every PA** with batter-season, pitcher-season and park fixed effects and a home-team term
+— **one regression per division**. Each player's effect is his rate vs. an *average opponent in
+an average park*; adjusted counts = (league rate + effect) × PA, and every rate stat (AVG/OBP/
+SLG/OPS/JOPS/ISO/BABIP/wOBA/wRC+/FIP/…) is rebuilt from those counts. Each row carries the
+`raw_` version for comparison and `opp_wOBA` (strength of schedule). The regression's park
+effects are in `run_values/adjusted_parks.csv`. Details in [FORMAT.md](FORMAT.md).
+
 **Run values** (`run_values/`, all per division × season):
 - `re24.csv` — the 24-state run-expectancy matrix (plus an `ALL` cumulative row per division).
 - `linear_weights.csv` — the run value of each event (single, walk, HR, out, SB, …).
@@ -183,11 +208,19 @@ Other caveats:
 
 ---
 
-## License & provenance
+## License & Citation
 
-**Data: [CC0 1.0 Universal](LICENSE) (public domain).** Use it for anything — research,
-commercial, redistribution — no permission or attribution required (a credit is always
-appreciated).
+This dataset is free to use under the [Creative Commons Attribution 4.0 International License
+(CC BY 4.0)](LICENSE). You may use, share, and adapt it for any purpose, including commercial
+use, as long as you give appropriate credit.
+
+If you use this dataset in research, articles, apps, or analysis, please cite it as:
+
+> Abell, J. (2026). CollegeBaseballDB. https://github.com/JordanA25/CollegeBaseballDB
+
+Questions or corrections? Contact jordan.abell25@gmail.com.
+
+### Provenance
 
 Derived from publicly available box scores and play-by-play on **stats.ncaa.org**.
 Not affiliated with, licensed by, or endorsed by the NCAA.
