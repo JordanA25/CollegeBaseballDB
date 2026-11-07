@@ -1,52 +1,52 @@
-# MANIFEST - College Baseball Dataset (unreleased, after v1.0.0)
+# MANIFEST - College Baseball Dataset v1.2.0
 
-Generated 2026-10-16. Bulk files are compressed (see README for how to read them).
+Generated 2026-11-07. Bulk files are compressed (see README for how to read them).
 
 ## events/ (11 per-year tarballs)
 
 Each `events/{year}.tar.gz` unpacks to that season's `.EVC` event files, `.ROS` rosters,
-and `TEAM{year}` map. Totals across all years: 10,914 event files, 11,007 rosters,
-198,480 games.
+and `TEAM{year}` map. Totals across all years: 10,927 event files, 11,003 rosters,
+198,805 games.
 
 ## All data files
 
 | file | size (MB) | rows | sha256 (first 16) |
 |---|---|---|---|
-| events/2016.tar.gz | 7.0 | (compressed) | 545d779a4b9e3bfe |
-| events/2017.tar.gz | 15.1 | (compressed) | 1accb555dfdcc803 |
-| events/2018.tar.gz | 16.0 | (compressed) | f36d4cf72c7bd16f |
-| events/2019.tar.gz | 14.7 | (compressed) | 95194f712c766449 |
-| events/2020.tar.gz | 5.3 | (compressed) | c52d20381740b154 |
-| events/2021.tar.gz | 12.9 | (compressed) | 831577e0225ff7dd |
-| events/2022.tar.gz | 17.3 | (compressed) | f7a8527440768f36 |
-| events/2023.tar.gz | 16.5 | (compressed) | 62b24220f552464e |
-| events/2024.tar.gz | 17.2 | (compressed) | 6247aff48b4d6ff1 |
-| events/2025.tar.gz | 16.7 | (compressed) | aa95ed9695837a10 |
-| events/2026.tar.gz | 18.8 | (compressed) | 89354539eee2ed12 |
-| playbyplay/pbp_ids_2016.csv.gz | 13.6 | (compressed) | 51010bb0c648dbb3 |
-| playbyplay/pbp_ids_2017.csv.gz | 32.3 | (compressed) | bfae9f5693198fc3 |
-| playbyplay/pbp_ids_2018.csv.gz | 33.5 | (compressed) | cd9ad301b1cc43a0 |
-| playbyplay/pbp_ids_2019.csv.gz | 30.7 | (compressed) | 669a29e32431cddf |
-| playbyplay/pbp_ids_2020.csv.gz | 9.6 | (compressed) | 3607d907eebf1cfa |
-| playbyplay/pbp_ids_2021.csv.gz | 27.3 | (compressed) | f9fc576ea4c5178d |
-| playbyplay/pbp_ids_2022.csv.gz | 36.1 | (compressed) | c8111b8abec9cfce |
-| playbyplay/pbp_ids_2023.csv.gz | 34.4 | (compressed) | c6ed11422d6308a8 |
-| playbyplay/pbp_ids_2024.csv.gz | 35.9 | (compressed) | a78f64507d78a35d |
-| playbyplay/pbp_ids_2025.csv.gz | 34.6 | (compressed) | bd6fdeac94acbe75 |
-| playbyplay/pbp_ids_2026.csv.gz | 40.0 | (compressed) | 8fd7fc90e7369539 |
-| stats/adjusted_batting.csv | 50.3 | 200,843 | a70b16ad2f0524b5 |
-| stats/adjusted_pitching.csv | 45.7 | 166,581 | d8ca0273738a7e14 |
-| stats/advanced_batting.csv | 48.9 | 247,449 | ea46e33c28426c95 |
-| stats/advanced_pitching.csv | 28.6 | 117,355 | 8fb7ecb1793a56f6 |
+| events/2016.tar.gz | 7.3 | (compressed) | 3a4c370c2edd6117 |
+| events/2017.tar.gz | 15.9 | (compressed) | d84db5b1d0c94d88 |
+| events/2018.tar.gz | 16.4 | (compressed) | 9a37d2e09c446f8d |
+| events/2019.tar.gz | 15.0 | (compressed) | 51649435ffcc2690 |
+| events/2020.tar.gz | 5.4 | (compressed) | 0c7d2eedeb3024d9 |
+| events/2021.tar.gz | 13.2 | (compressed) | 273680f1361a8e89 |
+| events/2022.tar.gz | 17.3 | (compressed) | 909c1550c96f5007 |
+| events/2023.tar.gz | 16.6 | (compressed) | 811547ae0407ac35 |
+| events/2024.tar.gz | 17.3 | (compressed) | 2cabcc0bd2ffa2f3 |
+| events/2025.tar.gz | 16.7 | (compressed) | 3d292b33892d639f |
+| events/2026.tar.gz | 18.9 | (compressed) | f80a8c5c34b3d7ab |
+| playbyplay/pbp_ids_2016.csv.gz | 14.2 | (compressed) | c6044cef0a8ef0aa |
+| playbyplay/pbp_ids_2017.csv.gz | 33.5 | (compressed) | 1e98da4c63aaed29 |
+| playbyplay/pbp_ids_2018.csv.gz | 34.4 | (compressed) | 29c9579b62068c1f |
+| playbyplay/pbp_ids_2019.csv.gz | 31.3 | (compressed) | e1c2b6aa795888a4 |
+| playbyplay/pbp_ids_2020.csv.gz | 9.8 | (compressed) | 968df824b497b019 |
+| playbyplay/pbp_ids_2021.csv.gz | 27.7 | (compressed) | 402fd04142b9f860 |
+| playbyplay/pbp_ids_2022.csv.gz | 36.2 | (compressed) | 29f1c1c2351b4e84 |
+| playbyplay/pbp_ids_2023.csv.gz | 34.5 | (compressed) | 299659042f2443ee |
+| playbyplay/pbp_ids_2024.csv.gz | 36.0 | (compressed) | 11999c2f0fba3022 |
+| playbyplay/pbp_ids_2025.csv.gz | 34.7 | (compressed) | f757b8830dcb9e38 |
+| playbyplay/pbp_ids_2026.csv.gz | 40.1 | (compressed) | fdf19e959c20a440 |
+| stats/adjusted_batting.csv | 50.3 | 200,876 | bd05480faf255205 |
+| stats/adjusted_pitching.csv | 45.7 | 166,611 | 8e2a1aa680893e85 |
+| stats/advanced_batting.csv | 48.9 | 247,449 | 1a3c38520fd81887 |
+| stats/advanced_pitching.csv | 28.6 | 117,355 | 46d45c5eb0569cff |
 | stats/gamelog_batting.csv.gz | 41.8 | (compressed) | 8820d161bede8b7b |
 | stats/gamelog_pitching.csv.gz | 17.5 | (compressed) | 1b062bf35bc4eefc |
 | stats/season_batting.csv | 27.2 | 247,449 | 3d55ad996145e2c4 |
 | stats/season_pitching.csv | 16.0 | 117,355 | 84836faa6fea838d |
-| run_values/adjusted_parks.csv | 0.1 | 1,404 | e966a3d7c29970b1 |
+| run_values/adjusted_parks.csv | 0.1 | 1,404 | 5b1c41f8430a61c0 |
 | run_values/jops_constants.csv | 0.0 | 3 | 6c683ec8a74895ab |
-| run_values/linear_weights.csv | 0.0 | 756 | 75ab29a9e45fd881 |
-| run_values/park_factors.csv | 0.1 | 963 | 8448af0842b28143 |
-| run_values/re24.csv | 0.0 | 864 | aaccf92eba10959d |
-| run_values/run_constants.csv | 0.0 | 33 | a39d9e8450a65cca |
-| teams.csv | 0.0 | 1,204 | 422f64b3cb74c191 |
-| player_crosswalk.csv | 9.7 | 199,542 | 88c38e6a1c5ea8a7 |
+| run_values/linear_weights.csv | 0.0 | 756 | b5cb26a7574552cf |
+| run_values/park_factors.csv | 0.1 | 963 | 8f798e9269373fb4 |
+| run_values/re24.csv | 0.0 | 864 | 22d8ed50ac0c8cf8 |
+| run_values/run_constants.csv | 0.0 | 33 | a6743efd4a62bd6c |
+| teams.csv | 0.0 | 1,207 | ef5d2a98b4c5128e |
+| player_crosswalk.csv | 9.7 | 199,617 | 63de02787240c589 |

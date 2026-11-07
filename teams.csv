@@ -70,6 +70,7 @@ BART,Barton,D-II
 BARU,Baruch,D-III
 BAST,Ball St.,D-I
 BATE,Bates,D-III
+BATT,Batten,non-NCAA
 BAWA,Baldwin Wallace,D-III
 BAYL,Baylor,D-I
 BEAB,Belmont Abbey,D-II
@@ -526,6 +527,7 @@ LOTE,Louisiana Tech,D-I
 LOUI,Louisiana,D-I
 LOUR,Lourdes,non-NCAA
 LSAL,LSU-Alexandria,non-NCAA
+LSNO,LSU New Orleans,non-NCAA
 LSSH,LSU-Shreveport,non-NCAA
 LSUX,LSU,D-I
 LSVL,Louisville,D-I
@@ -638,6 +640,7 @@ MRHS,Morehouse,D-II
 MRST,Marist,D-I
 MRYL,Maryland,D-I
 MRYW,Marywood,D-III
+MSCH,Mississippi Christian,non-NCAA
 MSDE,MSU Denver,D-II
 MSOE,MSOE,D-III
 MSSR,Missouri,D-I

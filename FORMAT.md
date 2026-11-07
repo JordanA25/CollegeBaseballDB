@@ -69,7 +69,7 @@ browa015,Brown,Aaron,?,?,DUKE,P
 
 ## `teams.csv` — master team codes
 
-`code,school,division` — all 1,204 teams. `division` ∈ {D-I, D-II, D-III, non-NCAA}.
+`code,school,division` — all 1,207 teams. `division` ∈ {D-I, D-II, D-III, non-NCAA}.
 (`non-NCAA` = NAIA/JUCO/other opponents that appear in games but aren't NCAA programs.)
 
 ## `player_crosswalk.csv` — player join hub

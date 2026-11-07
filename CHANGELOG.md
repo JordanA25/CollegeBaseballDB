@@ -1,6 +1,44 @@
 # Changelog
 
-## Unreleased
+## v1.2.0 — 2026-11-07
+
+Data-quality release: play-by-play from 2016–2021 now reconciles with official scores as well
+as 2022–2026 does.
+
+**Fixes**
+- **2018 home/away reversed (all divisions).** The 2018 scoreboard lists home and away
+  backwards for ~98% of games (proof: games whose play-by-play ends after a top half — only
+  possible when the home team leads — were "won" by the listed home team 1–4% of the time vs
+  99.5% in other years). Fixed per game by matching each game's play-by-play runs to the
+  scoreboard either way round; 342 games that were listed correctly are kept. As a result:
+  - **2018 `game_id`s change** (they start with the home team's code) and 2018 games are now
+    filed in the correct team's `.EVC`.
+  - 2018 rows in the adjusted stats carry the player's own team (they showed the opponent's).
+  - Park factors and the adjusted park effects no longer include a season of reversed
+    home/road splits (Air Force PF 118 → 127).
+- **Older narrative formats.** 2016–18 text separates runner clauses with a colon
+  (`walked: Albaugh advanced to second`) and 2019–21 often with nothing
+  (`3 RBI J. Millen scored Z. Coutts scored`). Runner advances after them were dropped; they are
+  now parsed. Play-by-play runs vs the official box score, D3 (D1/D2 similar):
+
+  | | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022+ |
+  |---|---|---|---|---|---|---|---|
+  | exact score, before | 14% | 17% | 1% | 44% | 36% | 43% | ~87% |
+  | exact score, after | 85% | 88% | 90% | 90% | 88% | 89% | ~88% |
+  | within 1 run, after | 95% | 97% | 99% | 99% | 98% | 99% | ~98.6% |
+
+  Event files, play-by-play, RE24, linear weights, run constants, advanced, adjusted and "+"
+  stats were all rebuilt.
+- Games whose home team had no code (e.g. "Saint Anselm" spelled out) were missing from the
+  corpus and are now included (198,480 → 198,805 games in total); new codes for three
+  non-NCAA opponents (BATT, LSNO, MSCH) bring `teams.csv` to 1,207 teams.
+- Every linked player keeps the same `retro_id` (verified for all 146,834).
+
+**Known gaps (unchanged)**: play-by-play exists for only ~41% of 2016 and ~71% of 2019 D3 games,
+the 2023 scrape is missing ~13% of D3 games, and ~420 2026 D3 games are still listed as
+scheduled — player totals from play-by-play run short of official totals in those seasons.
+
+## v1.1.0 — 2026-11-04
 
 **License change**
 - The dataset is now licensed under **CC BY 4.0** (attribution required) instead of CC0; see

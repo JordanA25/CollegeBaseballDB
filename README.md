@@ -4,7 +4,7 @@ An open play-by-play corpus for NCAA college baseball — Divisions I, II, and I
 seasons **2016–2026** — in **Retrosheet event-file format**, with every play, player,
 and game tied together by stable IDs.
 
-- **198,480 games** as Retrosheet event files (`.EVC`), one file per home team per season
+- **198,805 games** as Retrosheet event files (`.EVC`), one file per home team per season
 - **Play-by-play text with resolved IDs** (each play's narrative + every player in it → an 8-char ID)
 - **Season batting & pitching stats** (official NCAA season totals)
 - **Advanced metrics** — wOBA, wRC+, OPS+, JOPS, ISO, FIP, ERA+, WPT, … park-adjusted and per-division
@@ -26,7 +26,7 @@ CollegeBaseballDB/
 ├── README.md                     ← this file
 ├── FORMAT.md                     ← exact field-by-field spec of every file
 ├── CHANGELOG.md · MANIFEST.md · LICENSE
-├── teams.csv                     ← team code → school, division (1,204 teams)
+├── teams.csv                     ← team code → school, division (1,207 teams)
 ├── player_crosswalk.csv          ← the join hub: player_id ↔ retro_id ↔ name ↔ bio
 ├── events/                       ← Retrosheet event files, one tarball per season
 │   └── {SEASON}.tar.gz           ← unpacks to {SEASON}{TEAM}.EVC, {TEAM}{SEASON}.ROS, TEAM{SEASON}
@@ -169,7 +169,7 @@ effects are in `run_values/adjusted_parks.csv`. Details in [FORMAT.md](FORMAT.md
 - `linear_weights.csv` — the run value of each event (single, walk, HR, out, SB, …).
 - `run_constants.csv` — league constants (wOBA scale, FIP constant, lgOBP/lgSLG/lgERA, …).
 - `park_factors.csv` — per-team park factors (100 = neutral), pooled 2016–2026. Validated on the
-  known altitude parks: **Air Force (118)** and **New Mexico (117)** top the hitter's-park list.
+  known altitude parks: **Air Force (127)** and **New Mexico (121)** rank among the top hitter's parks.
 - `jops_constants.csv` — the JOPS OBP-weight per division.
 
 ---
